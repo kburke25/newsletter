@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bronxdale Language in Action family newsletter">
+  <title>Language in Action | Bronxdale</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="school-bar">
+    <img src="assets/img_18.png" alt="Bronxdale" class="school-logo">
+    <p id="tagline">BUILDING LANGUAGE, CONFIDENCE, AND CONNECTION TOGETHER</p>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <img src="assets/img_19.jpeg" alt="Old books on a shelf">
+      <div class="hero-overlay">
+        <h1 id="page-title">Language in Action</h1>
+        <p id="subtitle">HIGH SCHOOL ENGLISH LANGUAGE ARTS</p>
+      </div>
+    </section>
+
+    <section class="controls" aria-label="Newsletter controls">
+      <div>
+        <label for="language">Language</label>
+        <select id="language" aria-label="Choose a language"></select>
+      </div>
+      <p id="week" class="week">Week of October 5, 2026</p>
+    </section>
+
+    <section id="newsletter-grid" class="newsletter-grid" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>Bronxdale High School • Language in Action</p>
+  </footer>
+
+  <script src="content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
