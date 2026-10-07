@@ -1,0 +1,131 @@
+{
+  "english": {
+    "siteTitle": "Language in Action",
+    "subtitle": "High School English Language Arts",
+    "tagline": "Building language, confidence, and connection together",
+    "issueLabel": "October 2026",
+    "intro": "See what students have been learning in English this week, the skills they have been practicing, and optional resources families can use at home.",
+    "schoolName": "BRONXDALE",
+    "translationNotice": "Translations are provided automatically to make school information more accessible. Please contact the school if anything is unclear.",
+    "languages": [
+      "en",
+      "sq",
+      "ar",
+      "es",
+      "ff",
+      "bn",
+      "ur",
+      "vi"
+    ],
+    "sections": [
+      {
+        "id": "grade9",
+        "eyebrow": "9th Grade",
+        "title": "",
+        "whatLearning": "This week in 9th Grade ELA, students have been reading The Music of Erich Zann and exploring how setting and characterization create mood and meaning.",
+        "skillFocus": "Analyzing how an author uses details about characters and setting to shape the reader's experience.",
+        "talkAtHome": "Ask your student: “What makes a story feel creepy or suspenseful, and what details create that feeling?”",
+        "body": "",
+        "image": "/assets/grade9.png",
+        "imageAlt": "Illustration of a frightened violinist playing in a dark room.",
+        "links": [
+          {
+            "label": "Skill Resource: Setting & Characterization",
+            "url": "https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"
+          },
+          {
+            "label": "Resources for Multilingual Families",
+            "url": "https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"
+          }
+        ]
+      },
+      {
+        "id": "grade10",
+        "eyebrow": "10th Grade",
+        "title": "",
+        "whatLearning": "This week in 10th Grade ELA, students have been reading The House on Mango Street by Sandra Cisneros and examining how Cisneros develops characters through descriptions, actions, relationships, and the way they see themselves and others.",
+        "skillFocus": "Analyzing characterization by using details from the text to explain what we learn about a character and how the author develops that character.",
+        "talkAtHome": "Ask your student: “What have you learned about Esperanza so far, and what details from the book helped you understand her better?”",
+        "body": "",
+        "image": "/assets/grade10.png",
+        "imageAlt": "Sandra Cisneros beside the cover of The House on Mango Street.",
+        "links": [
+          {
+            "label": "Skill Resource: Characterization",
+            "url": "https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"
+          },
+          {
+            "label": "Resources for Multilingual Families",
+            "url": "https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"
+          }
+        ]
+      },
+      {
+        "id": "grade11",
+        "eyebrow": "11th Grade",
+        "title": "",
+        "whatLearning": "This week in 11th Grade ELA, students have been reading and analyzing poetry. They have been looking closely at how poets use speaker, imagery, word choice, and tone to communicate ideas and create meaning.",
+        "skillFocus": "Using details such as imagery, word choice, and tone to explain a poem's meaning and the ideas it communicates.",
+        "talkAtHome": "Ask your student: “What do you think the speaker is feeling or trying to say, and what words or images make you think that?”",
+        "body": "",
+        "image": "/assets/grade11.png",
+        "imageAlt": "A poet reading from a sheet of paper at a microphone.",
+        "links": [
+          {
+            "label": "Skill Resource: SOAPSTone Analysis",
+            "url": "https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"
+          },
+          {
+            "label": "Resources for Multilingual Families",
+            "url": "https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"
+          }
+        ]
+      },
+      {
+        "id": "grade12",
+        "eyebrow": "12th Grade",
+        "title": "",
+        "whatLearning": "This week in 12th Grade ELA, students have been working on personal statements for the college application process. They have been developing essays that communicate their experiences, goals, and perspective in a clear and engaging way.",
+        "skillFocus": "Choosing specific experiences and using reflection to show something meaningful about themselves.",
+        "talkAtHome": "Ask your student: “What is one experience you might write about, and what does it show about you?”",
+        "body": "",
+        "image": "/assets/grade12.png",
+        "imageAlt": "A graduation cap resting on a stack of books with a diploma.",
+        "links": [
+          {
+            "label": "Skill Resource: Personal Statement Writing",
+            "url": "https://apply.jhu.edu/college-planning-guide/essays-that-worked/"
+          },
+          {
+            "label": "Resources for Multilingual Families",
+            "url": "https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"
+          }
+        ]
+      }
+    ],
+    "contact": {
+      "heading": "Questions?",
+      "body": "Contact the school or your child's teacher if you have questions about classwork or language support.",
+      "email": ""
+    },
+    "contentVersion": "2026-10-08-family-update-v3",
+    "familySpotlight": {
+      "eyebrow": "For Families",
+      "heading": "Free Adult ESL Classes in the Bronx",
+      "body": "The Bronx Adult Learning Center is offering no-cost adult classes, including English as a Second Language (ESL), during October 2026. See the registration flyer for locations, dates, times, eligibility requirements, and contact information.",
+      "image": "/assets/october-2026-adult-learning-registration.png",
+      "imageAlt": "Bronx Adult Learning Center Fall Registration October 2026 flyer for no-cost adult classes, including English as a Second Language, high school equivalency and GED preparation.",
+      "linkLabel": "Open Registration Flyer",
+      "linkUrl": "/assets/october-2026-adult-learning-registration.png"
+    },
+    "ui": {
+      "languageLabel": "Language",
+      "whatLearningLabel": "What we're learning",
+      "skillFocusLabel": "Skill focus",
+      "talkAtHomeLabel": "Talk about it at home"
+    }
+  },
+  "translations": {},
+  "publishedAt": null,
+  "seededTranslations": false
+}

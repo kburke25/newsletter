@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>Newsletter Editor | Language in Action</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="admin-shell">
+    <header class="admin-header">
+      <h1>Language in Action — Editor</h1>
+      <p class="note">Edit the English version once. When you publish, the selected translations are generated and saved with the newsletter.</p>
+    </header>
+
+    <section class="admin-panel">
+      <h2>Admin access</h2>
+      <div class="field">
+        <label for="adminPassword">Admin password</label>
+        <input id="adminPassword" type="password" autocomplete="current-password" placeholder="Set this in Netlify as ADMIN_PASSWORD" />
+      </div>
+    </section>
+
+    <form id="editorForm">
+      <section class="admin-panel">
+        <h2>Newsletter</h2>
+        <div class="form-grid">
+          <div class="field"><label>School name<input name="schoolName" /></label></div>
+          <div class="field"><label>Issue / month<input name="issueLabel" /></label></div>
+          <div class="field"><label>Main title<input name="siteTitle" /></label></div>
+          <div class="field"><label>Subtitle<input name="subtitle" /></label></div>
+          <div class="field full"><label>Tagline<input name="tagline" /></label></div>
+          <div class="field full"><label>Intro<textarea name="intro"></textarea></label></div>
+          <div class="field full"><label>Translation note<textarea name="translationNotice"></textarea></label></div>
+        </div>
+      </section>
+
+      <section class="admin-panel">
+        <h2>Languages</h2>
+        <p class="note">English is always included. Select the languages you want generated when you publish.</p>
+        <div class="language-checks" id="languageChecks"></div>
+      </section>
+
+      <div id="sectionEditors"></div>
+
+      <section class="admin-panel">
+        <h2>Family Resource Spotlight</h2>
+        <p class="note">Use this for a family-facing flyer, program, event, or community resource. Leave the heading blank to hide the section.</p>
+        <div class="form-grid">
+          <div class="field"><label>Eyebrow<input name="familySpotlight_eyebrow" /></label></div>
+          <div class="field"><label>Heading<input name="familySpotlight_heading" /></label></div>
+          <div class="field full"><label>Message<textarea name="familySpotlight_body"></textarea></label></div>
+          <div class="field"><label>Image URL<input name="familySpotlight_image" /></label></div>
+          <div class="field"><label>Image alt text<input name="familySpotlight_imageAlt" /></label></div>
+          <div class="field"><label>Button label<input name="familySpotlight_linkLabel" /></label></div>
+          <div class="field"><label>Button URL<input name="familySpotlight_linkUrl" /></label></div>
+        </div>
+      </section>
+
+      <section class="admin-panel">
+        <h2>Contact</h2>
+        <div class="form-grid">
+          <div class="field"><label>Heading<input name="contactHeading" /></label></div>
+          <div class="field"><label>Email<input name="contactEmail" type="email" /></label></div>
+          <div class="field full"><label>Message<textarea name="contactBody"></textarea></label></div>
+        </div>
+      </section>
+
+      <section class="admin-panel">
+        <div class="admin-actions">
+          <button class="primary-button" type="submit">Publish & translate</button>
+          <a class="secondary-button" href="/" target="_blank" rel="noopener">Open public newsletter</a>
+          <button class="secondary-button" type="button" id="reloadButton">Reload published content</button>
+        </div>
+        <p class="admin-message" id="adminMessage" role="status" aria-live="polite"></p>
+      </section>
+    </form>
+  </div>
+  <script type="module" src="/admin.js"></script>
+</body>
+</html>
