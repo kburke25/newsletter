@@ -1,65 +1,195 @@
-
-const DATA = window.NEWSLETTER_DATA;
-const images = {
-  9: 'assets/img_21.png',
-  10: 'assets/img_23.png',
-  11: 'assets/img_26.png',
-  12: 'assets/img_30.png'
+const LANGUAGE_NAMES = {
+  en: "English",
+  sq: "Shqip",
+  ar: "العربية",
+  es: "Español",
+  ff: "Fulani / Fulfulde",
+  bn: "বাংলা",
+  ur: "اردو",
+  vi: "Tiếng Việt"
 };
-const imageAlt = {
-  9: 'Two people speaking to each other',
-  10: 'Portrait of writer Jesus Colón',
-  11: 'Painting of a café interior',
-  12: 'Barack Obama speaking at a microphone'
-};
-const selector = document.getElementById('language');
-Object.entries(DATA).forEach(([code, lang]) => {
-  const option = document.createElement('option');
-  option.value = code;
-  option.textContent = lang.name;
-  selector.appendChild(option);
-});
+const RTL_LANGS = new Set(["ar", "ur", "fa", "he"]);
 
-function render(code){
-  const lang = DATA[code] || DATA.en;
-  document.documentElement.lang = code === 'gcr' ? 'en' : code;
-  document.documentElement.dir = lang.dir;
-  document.getElementById('page-title').textContent = lang.title;
-  document.getElementById('subtitle').textContent = lang.subtitle;
-  document.getElementById('tagline').textContent = lang.tagline;
-  document.getElementById('week').textContent = lang.week;
-  document.title = `${lang.title} | Bronxdale`;
+let newsletter;
+let currentLang = "en";
 
-  const grid = document.getElementById('newsletter-grid');
-  grid.innerHTML = '';
-  ['9','10','11','12'].forEach(grade => {
-    const g = lang.grades[grade];
-    const card = document.createElement('article');
-    card.className = 'grade-card';
-    card.innerHTML = `
-      <img src="${images[grade]}" alt="${imageAlt[grade]}">
-      <div class="grade-content">
-        <h2>${g.title}</h2>
-        <p>${g.body}</p>
-        <div class="links"></div>
-      </div>`;
-    const links = card.querySelector('.links');
-    g.links.forEach(([label,url]) => {
-      const a = document.createElement('a');
-      a.className = 'resource-link';
-      a.href = url;
-      a.target = '_blank';
-      a.rel = 'noopener noreferrer';
-      a.textContent = label;
-      links.appendChild(a);
-    });
-    grid.appendChild(card);
-  });
-  localStorage.setItem('newsletterLanguage', code);
+async function loadContent() {
+  const response = await fetch("./data/default-content.json", { cache: "no-store" });
+  if (!response.ok) throw new Error("Could not load newsletter content");
+  return response.json();
 }
 
-const saved = localStorage.getItem('newsletterLanguage');
-if(saved && DATA[saved]) selector.value = saved;
-else selector.value = 'en';
-selector.addEventListener('change', e => render(e.target.value));
-render(selector.value);
+function translatedContent(data, lang) {
+  if (lang === "en") return data.english || data;
+  return data.translations?.[lang] || data.english || data;
+}
+
+function languageOptions(data) {
+  const english = data.english || data;
+  const enabled = english.languages || ["en"];
+  const select = document.querySelector("#languageSelect");
+  select.innerHTML = "";
+  for (const code of enabled) {
+    const option = document.createElement("option");
+    option.value = code;
+    option.textContent = LANGUAGE_NAMES[code] || code;
+    select.append(option);
+  }
+  const saved = localStorage.getItem("newsletter-language");
+  if (saved && enabled.includes(saved)) currentLang = saved;
+  select.value = currentLang;
+}
+
+function resolveLocalPath(url) {
+  if (!url) return "";
+  if (/^https?:\/\//i.test(url) || url.startsWith("mailto:") || url.startsWith("#")) return url;
+  return url.replace(/^\//, "./");
+}
+
+function render(data, lang) {
+  const c = translatedContent(data, lang);
+  const base = data.english || data;
+  document.documentElement.lang = lang;
+  document.documentElement.dir = RTL_LANGS.has(lang) ? "rtl" : "ltr";
+
+  setText("schoolName", c.schoolName || base.schoolName);
+  setText("tagline", c.tagline || base.tagline);
+  setText("issueLabel", c.issueLabel || base.issueLabel);
+  setText("siteTitle", c.siteTitle || base.siteTitle);
+  setText("subtitle", c.subtitle || base.subtitle);
+  setText("intro", c.intro || base.intro);
+  setText("translationNotice", c.translationNotice || base.translationNotice);
+  setText("languageLabel", c.ui?.languageLabel || base.ui?.languageLabel || "Language");
+
+  const container = document.querySelector("#sections");
+  container.innerHTML = "";
+  (c.sections || base.sections || []).forEach((section, i) => {
+    const baseSection = (base.sections || [])[i] || {};
+    const article = document.createElement("article");
+    article.className = "grade-card";
+
+    const media = document.createElement("div");
+    media.className = "card-image";
+    const imageUrl = resolveLocalPath(baseSection.image || section.image);
+    if (imageUrl) {
+      const img = document.createElement("img");
+      img.src = imageUrl;
+      img.alt = section.imageAlt || baseSection.imageAlt || "";
+      media.append(img);
+    } else {
+      media.classList.add("empty");
+      media.setAttribute("aria-hidden", "true");
+    }
+
+    const body = document.createElement("div");
+    body.className = "card-body";
+    body.innerHTML = `
+      <div class="eyebrow"></div>
+      <h2 class="card-title"></h2>
+      <div class="learning-blocks"></div>
+      <div class="resource-links" aria-label="Resources"></div>
+    `;
+    body.querySelector(".eyebrow").textContent = section.eyebrow || baseSection.eyebrow || "";
+    body.querySelector(".card-title").textContent = section.title || baseSection.title || "";
+
+    const learningBlocks = body.querySelector(".learning-blocks");
+    const structuredFields = [
+      [c.ui?.whatLearningLabel || base.ui?.whatLearningLabel || "What we're learning", section.whatLearning || baseSection.whatLearning],
+      [c.ui?.skillFocusLabel || base.ui?.skillFocusLabel || "Skill focus", section.skillFocus || baseSection.skillFocus],
+      [c.ui?.talkAtHomeLabel || base.ui?.talkAtHomeLabel || "Talk about it at home", section.talkAtHome || baseSection.talkAtHome]
+    ];
+    structuredFields.forEach(([label, value]) => {
+      if (!value) return;
+      const block = document.createElement("div");
+      block.className = "learning-block";
+      const heading = document.createElement("h3");
+      heading.textContent = label;
+      const copy = document.createElement("p");
+      copy.textContent = value;
+      block.append(heading, copy);
+      learningBlocks.append(block);
+    });
+
+    const linksEl = body.querySelector(".resource-links");
+    (section.links || baseSection.links || []).forEach((link, li) => {
+      const baseLink = (baseSection.links || [])[li] || {};
+      const url = resolveLocalPath(baseLink.url || link.url || "");
+      const label = link.label || baseLink.label || "Resource";
+      if (!url) return;
+      const a = document.createElement("a");
+      a.href = url;
+      a.textContent = label;
+      if (/^https?:\/\//.test(url)) {
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+      }
+      linksEl.append(a);
+    });
+
+    article.append(media, body);
+    container.append(article);
+  });
+
+  const spotlight = c.familySpotlight || base.familySpotlight || {};
+  const baseSpotlight = base.familySpotlight || {};
+  const spotlightEl = document.querySelector("#familySpotlight");
+  if (spotlight.heading || baseSpotlight.heading) {
+    spotlightEl.hidden = false;
+    setText("familySpotlightEyebrow", spotlight.eyebrow || baseSpotlight.eyebrow || "For Families");
+    setText("familySpotlightHeading", spotlight.heading || baseSpotlight.heading || "");
+    setText("familySpotlightBody", spotlight.body || baseSpotlight.body || "");
+    const spotlightImage = document.querySelector("#familySpotlightImage");
+    const spotlightImageUrl = resolveLocalPath(baseSpotlight.image || spotlight.image || "");
+    spotlightImage.src = spotlightImageUrl;
+    spotlightImage.alt = spotlight.imageAlt || baseSpotlight.imageAlt || "";
+    spotlightImage.hidden = !spotlightImageUrl;
+    const spotlightLink = document.querySelector("#familySpotlightLink");
+    const spotlightLinkUrl = resolveLocalPath(baseSpotlight.linkUrl || spotlight.linkUrl || "");
+    spotlightLink.textContent = spotlight.linkLabel || baseSpotlight.linkLabel || "View resource";
+    spotlightLink.href = spotlightLinkUrl || "#";
+    spotlightLink.hidden = !spotlightLinkUrl;
+    if (/^https?:\/\//.test(spotlightLinkUrl)) {
+      spotlightLink.target = "_blank";
+      spotlightLink.rel = "noopener noreferrer";
+    }
+    const imageLink = document.querySelector(".family-spotlight-image-link");
+    imageLink.href = spotlightLinkUrl || spotlightImageUrl || "#";
+  } else {
+    spotlightEl.hidden = true;
+  }
+
+  const contact = c.contact || base.contact || {};
+  setText("contactHeading", contact.heading || "Questions?");
+  setText("contactBody", contact.body || "");
+  const email = base.contact?.email || "";
+  const emailEl = document.querySelector("#contactEmail");
+  if (email) {
+    emailEl.hidden = false;
+    emailEl.href = `mailto:${email}`;
+    emailEl.textContent = email;
+  } else {
+    emailEl.hidden = true;
+  }
+
+  document.querySelector("#main").hidden = false;
+  document.querySelector("#status").textContent = "";
+}
+
+function setText(id, value) {
+  document.getElementById(id).textContent = value || "";
+}
+
+try {
+  newsletter = await loadContent();
+  languageOptions(newsletter);
+  render(newsletter, currentLang);
+} catch (error) {
+  document.querySelector("#status").textContent = "The newsletter could not be loaded. Please refresh the page.";
+  console.error(error);
+}
+
+document.querySelector("#languageSelect").addEventListener("change", (event) => {
+  currentLang = event.target.value;
+  localStorage.setItem("newsletter-language", currentLang);
+  render(newsletter, currentLang);
+});

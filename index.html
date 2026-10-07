@@ -1,43 +1,62 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Bronxdale Language in Action family newsletter">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Bronxdale Language in Action family newsletter" />
   <title>Language in Action | Bronxdale</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <header class="school-bar">
-    <img src="assets/img_18.png" alt="Bronxdale" class="school-logo">
-    <p id="tagline">BUILDING LANGUAGE, CONFIDENCE, AND CONNECTION TOGETHER</p>
+  <a class="skip-link" href="#main">Skip to newsletter</a>
+
+  <header class="utility-bar">
+    <div class="utility-inner">
+      <div class="school-mark" id="schoolName">BRONXDALE</div>
+      <div class="tagline" id="tagline">Building language, confidence, and connection together</div>
+    </div>
   </header>
 
-  <main>
-    <section class="hero" aria-labelledby="page-title">
-      <img src="assets/img_19.jpeg" alt="Old books on a shelf">
-      <div class="hero-overlay">
-        <h1 id="page-title">Language in Action</h1>
-        <p id="subtitle">HIGH SCHOOL ENGLISH LANGUAGE ARTS</p>
+  <section class="hero" aria-labelledby="siteTitle">
+    <span class="issue-label" id="issueLabel">October 2026</span>
+    <h1 id="siteTitle">Language in Action</h1>
+    <p class="subtitle" id="subtitle">High School English Language Arts</p>
+    <p class="intro" id="intro"></p>
+  </section>
+
+  <div class="controls">
+    <div class="language-control">
+      <label id="languageLabel" for="languageSelect">Language</label>
+      <select id="languageSelect" aria-label="Choose language"></select>
+    </div>
+  </div>
+
+  <p class="status" id="status" role="status" aria-live="polite">Loading newsletter…</p>
+
+  <main id="main" hidden>
+    <div class="section-grid" id="sections"></div>
+
+    <section class="family-spotlight" id="familySpotlight" hidden>
+      <div class="family-spotlight-copy">
+        <div class="spotlight-eyebrow" id="familySpotlightEyebrow">For Families</div>
+        <h2 id="familySpotlightHeading"></h2>
+        <p id="familySpotlightBody"></p>
+        <a class="spotlight-button" id="familySpotlightLink" hidden>Open Registration Flyer</a>
       </div>
+      <a class="family-spotlight-image-link" href="./assets/october-2026-adult-learning-registration.png" target="_blank" rel="noopener noreferrer" aria-label="Open the adult learning registration flyer full size">
+        <img id="familySpotlightImage" alt="" hidden />
+      </a>
     </section>
 
-    <section class="controls" aria-label="Newsletter controls">
-      <div>
-        <label for="language">Language</label>
-        <select id="language" aria-label="Choose a language"></select>
-      </div>
-      <p id="week" class="week">Week of October 5, 2026</p>
+    <section class="contact-card" id="contactCard">
+      <h2 id="contactHeading">Questions?</h2>
+      <p id="contactBody"></p>
+      <a id="contactEmail" hidden></a>
     </section>
 
-    <section id="newsletter-grid" class="newsletter-grid" aria-live="polite"></section>
+    <p class="translation-note" id="translationNotice"></p>
   </main>
 
-  <footer>
-    <p>Bronxdale High School • Language in Action</p>
-  </footer>
-
-  <script src="content.js"></script>
-  <script src="app.js"></script>
+  <script type="module" src="./app.js"></script>
 </body>
 </html>
