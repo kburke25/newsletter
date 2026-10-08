@@ -1,0 +1,14 @@
+Upload ALL of these items to the ROOT of the GitHub repository:
+
+index.html
+styles.css
+content.js
+app.js
+.nojekyll
+assets/   (entire folder)
+
+GitHub Pages should be set to:
+Branch: main
+Folder: /(root)
+
+Do not put these inside another folder such as public/ or GITHUB_PAGES_MULTI_FILE/.
