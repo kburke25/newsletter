@@ -1,71 +1,47 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Bronxdale Language in Action family update" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bronxdale Language in Action family newsletter">
   <title>Language in Action | Bronxdale</title>
-  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <a class="skip-link" href="#main">Skip to family update</a>
-
-  <header class="utility-bar">
-    <div class="utility-inner">
-      <div class="school-mark" id="schoolName">BRONXDALE</div>
-      <div class="tagline" id="tagline">Building language, confidence, and connection together</div>
-    </div>
+  <header class="school-bar">
+    <img src="assets/img_18.png" alt="Bronxdale" class="school-logo">
+    <p id="tagline">BUILDING LANGUAGE, CONFIDENCE, AND CONNECTION TOGETHER</p>
   </header>
 
-  <section class="hero" aria-labelledby="siteTitle">
-    <span class="issue-label" id="issueLabel">October 2026</span>
-    <h1 id="siteTitle">Language in Action</h1>
-    <p class="subtitle" id="subtitle">High School English Language Arts</p>
-    <p class="intro" id="intro"></p>
-  </section>
-
-  <div class="controls">
-    <div class="language-control">
-      <label id="languageLabel" for="languageSelect">Language</label>
-      <select id="languageSelect" aria-label="Choose language"></select>
-    </div>
-  </div>
-
-  <main id="main">
-    <div class="section-grid" id="sections"></div>
-
-    <section class="family-spotlight" id="familySpotlight" hidden>
-      <div class="family-spotlight-copy">
-        <div class="spotlight-eyebrow" id="familySpotlightEyebrow">For Families</div>
-        <h2 id="familySpotlightHeading"></h2>
-        <p id="familySpotlightBody"></p>
-        <button class="spotlight-button" id="familySpotlightLink" type="button" hidden>Open Registration Flyer</button>
-      </div>
-      <button class="family-spotlight-image-link" id="familySpotlightImageButton" type="button" aria-label="Open the adult learning registration flyer full size">
-        <img id="familySpotlightImage" alt="" hidden />
-      </button>
-    </section>
-
-    <section class="contact-card" id="contactCard">
-      <h2 id="contactHeading">Questions?</h2>
-      <p id="contactBody"></p>
-      <div class="contact-links">
-        <a id="contactEmail" hidden></a>
-        <a id="contactPhone" hidden></a>
+  <main>
+    <section class="hero" aria-labelledby="page-title">
+      <img src="assets/img_19.jpeg" alt="Old books on a shelf">
+      <div class="hero-overlay">
+        <h1 id="page-title">Language in Action</h1>
+        <p id="subtitle">HIGH SCHOOL ENGLISH LANGUAGE ARTS</p>
       </div>
     </section>
 
-    <p class="translation-note" id="translationNotice"></p>
+    <section class="controls" aria-label="Newsletter controls">
+      <div class="control-group">
+        <label id="language-label" for="language">Language</label>
+        <select id="language" aria-label="Choose a language"></select>
+      </div>
+      <div class="control-group">
+        <label id="edition-label" for="edition">Newsletter edition</label>
+        <select id="edition" aria-label="Choose a newsletter edition"></select>
+      </div>
+      <p id="week" class="week">Week of October 12, 2026</p>
+    </section>
+
+    <section id="newsletter-grid" class="newsletter-grid" aria-live="polite"></section>
   </main>
 
-  <div class="flyer-modal" id="flyerModal" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Adult ESL registration flyer">
-    <div class="flyer-modal-inner">
-      <button class="flyer-modal-close" id="flyerModalClose" type="button" aria-label="Close flyer">×</button>
-      <img id="flyerModalImage" alt="Adult ESL registration flyer" />
-    </div>
-  </div>
+  <footer>
+    <p>Bronxdale High School • Language in Action</p>
+  </footer>
 
-  <script src="./content.js"></script>
-  <script src="./app.js"></script>
+  <script src="content.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>

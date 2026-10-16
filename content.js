@@ -1,1 +1,1349 @@
-window.NEWSLETTER = {"english":{"siteTitle":"Language in Action","subtitle":"High School English Language Arts","tagline":"Building language, confidence, and connection together","issueLabel":"October 2026","intro":"See what students have been learning in English this week, the skills they have been practicing, and optional resources families can use at home.","schoolName":"BRONXDALE","translationNotice":"Translations are provided to make school information more accessible. Please contact the school if anything is unclear.","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"9th Grade","title":"","whatLearning":"This week in 9th Grade ELA, students have been reading The Music of Erich Zann and exploring how setting and characterization create mood and meaning.","skillFocus":"Analyzing how an author uses details about characters and setting to shape the reader's experience.","talkAtHome":"Ask your student: “What makes a story feel creepy or suspenseful, and what details create that feeling?”","body":"","image":"assets/grade9.png","imageAlt":"Illustration of a frightened violinist playing in a dark room.","links":[{"label":"Skill Resource: Setting & Characterization","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"Resources for Multilingual Families","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"10th Grade","title":"","whatLearning":"This week in 10th Grade ELA, students have been reading The House on Mango Street by Sandra Cisneros and examining how Cisneros develops characters through descriptions, actions, relationships, and the way they see themselves and others.","skillFocus":"Analyzing characterization by using details from the text to explain what we learn about a character and how the author develops that character.","talkAtHome":"Ask your student: “What have you learned about Esperanza so far, and what details from the book helped you understand her better?”","body":"","image":"assets/grade10.png","imageAlt":"Sandra Cisneros beside the cover of The House on Mango Street.","links":[{"label":"Skill Resource: Characterization","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"Resources for Multilingual Families","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"11th Grade","title":"","whatLearning":"This week in 11th Grade ELA, students have been reading and analyzing poetry. They have been looking closely at how poets use speaker, imagery, word choice, and tone to communicate ideas and create meaning.","skillFocus":"Using details such as imagery, word choice, and tone to explain a poem's meaning and the ideas it communicates.","talkAtHome":"Ask your student: “What do you think the speaker is feeling or trying to say, and what words or images make you think that?”","body":"","image":"assets/grade11.png","imageAlt":"A poet reading from a sheet of paper at a microphone.","links":[{"label":"Skill Resource: SOAPSTone Analysis","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"Resources for Multilingual Families","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"12th Grade","title":"","whatLearning":"This week in 12th Grade ELA, students have been working on personal statements for the college application process. They have been developing essays that communicate their experiences, goals, and perspective in a clear and engaging way.","skillFocus":"Choosing specific experiences and using reflection to show something meaningful about themselves.","talkAtHome":"Ask your student: “What is one experience you might write about, and what does it show about you?”","body":"","image":"assets/grade12.png","imageAlt":"A graduation cap resting on a stack of books with a diploma.","links":[{"label":"Skill Resource: Personal Statement Writing","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"Resources for Multilingual Families","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"contact":{"heading":"Questions?","body":"Contact the school or your child's teacher if you have questions about classwork or language support.","email":"kburke25@schools.nyc.gov","phone":"347-640-3806"},"contentVersion":"2026-10-08-multifile-v1","familySpotlight":{"eyebrow":"For Families","heading":"Free Adult ESL Classes in the Bronx","body":"The Bronx Adult Learning Center is offering no-cost adult classes, including English as a Second Language (ESL), during October 2026. See the registration flyer for locations, dates, times, eligibility requirements, and contact information.","image":"assets/adult-esl-flyer.png","imageAlt":"Bronx Adult Learning Center Fall Registration October 2026 flyer for no-cost adult classes, including English as a Second Language, high school equivalency and GED preparation.","linkLabel":"Open Registration Flyer","linkUrl":"assets/adult-esl-flyer.png"},"ui":{"languageLabel":"Language","whatLearningLabel":"What we're learning","skillFocusLabel":"Skill focus","talkAtHomeLabel":"Talk about it at home"}},"translations":{"es":{"siteTitle":"El lenguaje en acción","subtitle":"Artes del Lenguaje Inglés de la escuela secundaria","tagline":"Desarrollando juntos el lenguaje, la confianza y la conexión","issueLabel":"Octubre de 2026","schoolName":"BRONXDALE","intro":"Vea lo que los estudiantes han estado aprendiendo en Inglés esta semana, las habilidades que han estado practicando y recursos opcionales que las familias pueden usar en casa.","translationNotice":"Las traducciones se proporcionan para facilitar el acceso a la información escolar. Comuníquese con la escuela si algo no está claro.","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"9.º grado","title":"","whatLearning":"Esta semana en ELA de 9.º grado, los estudiantes han estado leyendo The Music of Erich Zann y explorando cómo el ambiente y la caracterización crean atmósfera y significado.","skillFocus":"Analizar cómo un autor usa detalles sobre los personajes y el ambiente para dar forma a la experiencia del lector.","talkAtHome":"Pregúntele a su estudiante: “¿Qué hace que una historia se sienta inquietante o llena de suspenso, y qué detalles crean esa sensación?”","body":"","image":"assets/grade9.png","imageAlt":"Ilustración de un violinista asustado tocando en una habitación oscura.","links":[{"label":"Recurso de habilidad: Ambiente y caracterización","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"Recursos para familias multilingües","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"10.º grado","title":"","whatLearning":"Esta semana en ELA de 10.º grado, los estudiantes han estado leyendo The House on Mango Street de Sandra Cisneros y examinando cómo Cisneros desarrolla a los personajes mediante descripciones, acciones, relaciones y la forma en que se ven a sí mismos y a los demás.","skillFocus":"Analizar la caracterización usando detalles del texto para explicar qué aprendemos sobre un personaje y cómo la autora desarrolla ese personaje.","talkAtHome":"Pregúntele a su estudiante: “¿Qué has aprendido sobre Esperanza hasta ahora y qué detalles del libro te ayudaron a comprenderla mejor?”","body":"","image":"assets/grade10.png","imageAlt":"Sandra Cisneros junto a la portada de The House on Mango Street.","links":[{"label":"Recurso de habilidad: Caracterización","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"Recursos para familias multilingües","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"11.º grado","title":"","whatLearning":"Esta semana en ELA de 11.º grado, los estudiantes han estado leyendo y analizando poesía. Han estado observando de cerca cómo los poetas usan el hablante, las imágenes, la elección de palabras y el tono para comunicar ideas y crear significado.","skillFocus":"Usar detalles como las imágenes, la elección de palabras y el tono para explicar el significado de un poema y las ideas que comunica.","talkAtHome":"Pregúntele a su estudiante: “¿Qué crees que siente o intenta decir el hablante, y qué palabras o imágenes te hacen pensar eso?”","body":"","image":"assets/grade11.png","imageAlt":"Un poeta leyendo de una hoja de papel frente a un micrófono.","links":[{"label":"Recurso de habilidad: Análisis SOAPSTone","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"Recursos para familias multilingües","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"12.º grado","title":"","whatLearning":"Esta semana en ELA de 12.º grado, los estudiantes han estado trabajando en sus ensayos personales para el proceso de solicitud universitaria. Han estado desarrollando ensayos que comunican sus experiencias, metas y perspectiva de una manera clara y atractiva.","skillFocus":"Elegir experiencias específicas y usar la reflexión para mostrar algo significativo sobre sí mismos.","talkAtHome":"Pregúntele a su estudiante: “¿Cuál es una experiencia sobre la que podrías escribir y qué muestra sobre ti?”","body":"","image":"assets/grade12.png","imageAlt":"Un birrete sobre una pila de libros con un diploma.","links":[{"label":"Recurso de habilidad: Ensayo personal","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"Recursos para familias multilingües","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"familySpotlight":{"eyebrow":"Para las familias","heading":"Clases gratuitas de ESL para adultos en el Bronx","body":"El Bronx Adult Learning Center ofrece clases gratuitas para adultos, incluyendo Inglés como Segundo Idioma (ESL), durante octubre de 2026. Consulte el volante de inscripción para conocer lugares, fechas, horarios, requisitos de elegibilidad e información de contacto.","image":"assets/october-2026-adult-learning-registration.png","imageAlt":"Volante de inscripción de otoño de octubre de 2026 del Bronx Adult Learning Center para clases gratuitas para adultos.","linkLabel":"Abrir volante de inscripción","linkUrl":"assets/october-2026-adult-learning-registration.png"},"contact":{"heading":"¿Preguntas?","body":"Comuníquese con la escuela o con el maestro de su estudiante si tiene preguntas sobre el trabajo de clase o el apoyo lingüístico.","email":""},"ui":{"languageLabel":"Idioma","whatLearningLabel":"Lo que estamos aprendiendo","skillFocusLabel":"Enfoque de habilidad","talkAtHomeLabel":"Conversen en casa"}},"sq":{"siteTitle":"Gjuha në Veprim","subtitle":"Gjuhë dhe Letërsi Angleze në shkollën e mesme","tagline":"Së bashku ndërtojmë gjuhën, vetëbesimin dhe lidhjen","issueLabel":"Tetor 2026","schoolName":"BRONXDALE","intro":"Shihni çfarë kanë mësuar nxënësit në Anglisht këtë javë, aftësitë që kanë ushtruar dhe burimet opsionale që familjet mund të përdorin në shtëpi.","translationNotice":"Përkthimet ofrohen për ta bërë informacionin e shkollës më të qasshëm. Ju lutemi kontaktoni shkollën nëse diçka nuk është e qartë.","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"Klasa e 9-të","title":"","whatLearning":"Këtë javë në ELA të klasës së 9-të, nxënësit kanë lexuar The Music of Erich Zann dhe kanë shqyrtuar se si mjedisi dhe karakterizimi krijojnë atmosferë dhe kuptim.","skillFocus":"Të analizojnë se si autori përdor detaje për personazhet dhe mjedisin për të formuar përvojën e lexuesit.","talkAtHome":"Pyeteni nxënësin tuaj: “Çfarë e bën një tregim të duket i frikshëm ose plot tension dhe cilat detaje e krijojnë atë ndjesi?”","body":"","image":"assets/grade9.png","imageAlt":"Ilustrim i një violinisti të frikësuar duke luajtur në një dhomë të errët.","links":[{"label":"Burim për aftësinë: Mjedisi dhe karakterizimi","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"Burime për familjet shumëgjuhëshe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"Klasa e 10-të","title":"","whatLearning":"Këtë javë në ELA të klasës së 10-të, nxënësit kanë lexuar The House on Mango Street nga Sandra Cisneros dhe kanë shqyrtuar se si Cisneros zhvillon personazhet përmes përshkrimeve, veprimeve, marrëdhënieve dhe mënyrës si ata e shohin veten dhe të tjerët.","skillFocus":"Të analizojnë karakterizimin duke përdorur detaje nga teksti për të shpjeguar çfarë mësojmë për një personazh dhe si e zhvillon autorja atë personazh.","talkAtHome":"Pyeteni nxënësin tuaj: “Çfarë ke mësuar deri tani për Esperanzën dhe cilat detaje nga libri të ndihmuan ta kuptoje më mirë?”","body":"","image":"assets/grade10.png","imageAlt":"Sandra Cisneros pranë kopertinës së The House on Mango Street.","links":[{"label":"Burim për aftësinë: Karakterizimi","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"Burime për familjet shumëgjuhëshe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"Klasa e 11-të","title":"","whatLearning":"Këtë javë në ELA të klasës së 11-të, nxënësit kanë lexuar dhe analizuar poezi. Ata kanë parë nga afër se si poetët përdorin folësin, imazhet, zgjedhjen e fjalëve dhe tonin për të komunikuar ide dhe për të krijuar kuptim.","skillFocus":"Të përdorin detaje si imazhet, zgjedhja e fjalëve dhe toni për të shpjeguar kuptimin e një poezie dhe idetë që ajo përcjell.","talkAtHome":"Pyeteni nxënësin tuaj: “Çfarë mendon se ndien ose po përpiqet të thotë folësi dhe cilat fjalë ose imazhe të bëjnë të mendosh kështu?”","body":"","image":"assets/grade11.png","imageAlt":"Një poet duke lexuar nga një fletë para një mikrofoni.","links":[{"label":"Burim për aftësinë: Analiza SOAPSTone","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"Burime për familjet shumëgjuhëshe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"Klasa e 12-të","title":"","whatLearning":"Këtë javë në ELA të klasës së 12-të, nxënësit kanë punuar mbi ese personale për procesin e aplikimit në kolegj. Ata kanë zhvilluar ese që përcjellin përvojat, synimet dhe këndvështrimin e tyre në mënyrë të qartë dhe tërheqëse.","skillFocus":"Të zgjedhin përvoja konkrete dhe të përdorin reflektimin për të treguar diçka domethënëse për veten.","talkAtHome":"Pyeteni nxënësin tuaj: “Cila është një përvojë për të cilën mund të shkruash dhe çfarë tregon ajo për ty?”","body":"","image":"assets/grade12.png","imageAlt":"Kapelë diplomimi mbi një grumbull librash me një diplomë.","links":[{"label":"Burim për aftësinë: Ese personale","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"Burime për familjet shumëgjuhëshe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"familySpotlight":{"eyebrow":"Për familjet","heading":"Klasa falas ESL për të rritur në Bronx","body":"Bronx Adult Learning Center po ofron klasa falas për të rritur, përfshirë Anglishten si Gjuhë e Dytë (ESL), gjatë tetorit 2026. Shihni fletushkën e regjistrimit për vendet, datat, oraret, kërkesat e pranueshmërisë dhe informacionin e kontaktit.","image":"assets/october-2026-adult-learning-registration.png","imageAlt":"Fletushkë regjistrimi për klasat falas të të rriturve në Bronx Adult Learning Center.","linkLabel":"Hap fletushkën e regjistrimit","linkUrl":"assets/october-2026-adult-learning-registration.png"},"contact":{"heading":"Pyetje?","body":"Kontaktoni shkollën ose mësuesin e fëmijës suaj nëse keni pyetje për punën në klasë ose mbështetjen gjuhësore.","email":""},"ui":{"languageLabel":"Gjuha","whatLearningLabel":"Çfarë po mësojmë","skillFocusLabel":"Fokusi i aftësisë","talkAtHomeLabel":"Bisedoni në shtëpi"}},"ar":{"siteTitle":"اللغة في التطبيق","subtitle":"فنون اللغة الإنجليزية في المرحلة الثانوية","tagline":"نبني معًا اللغة والثقة والتواصل","issueLabel":"أكتوبر 2026","schoolName":"BRONXDALE","intro":"اطّلعوا على ما تعلّمه الطلاب في مادة اللغة الإنجليزية هذا الأسبوع، والمهارات التي تدربوا عليها، والموارد الاختيارية التي يمكن للعائلات استخدامها في المنزل.","translationNotice":"تُقدَّم الترجمات لتسهيل الوصول إلى معلومات المدرسة. يُرجى التواصل مع المدرسة إذا كان أي شيء غير واضح.","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"الصف التاسع","title":"","whatLearning":"هذا الأسبوع في مادة ELA للصف التاسع، كان الطلاب يقرؤون The Music of Erich Zann ويستكشفون كيف يساهم المكان وبناء الشخصيات في خلق الجو والمعنى.","skillFocus":"تحليل كيفية استخدام الكاتب لتفاصيل الشخصيات والمكان لتشكيل تجربة القارئ.","talkAtHome":"اسألوا الطالب: «ما الذي يجعل القصة مخيفة أو مشوقة، وما التفاصيل التي تخلق هذا الشعور؟»","body":"","image":"assets/grade9.png","imageAlt":"رسم لعازف كمان خائف يعزف في غرفة مظلمة.","links":[{"label":"مورد للمهارة: المكان وبناء الشخصيات","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"موارد للعائلات متعددة اللغات","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"الصف العاشر","title":"","whatLearning":"هذا الأسبوع في مادة ELA للصف العاشر، كان الطلاب يقرؤون The House on Mango Street للكاتبة Sandra Cisneros ويدرسون كيف تطور Cisneros الشخصيات من خلال الوصف والأفعال والعلاقات والطريقة التي يرون بها أنفسهم والآخرين.","skillFocus":"تحليل بناء الشخصية باستخدام تفاصيل من النص لشرح ما نتعلمه عن الشخصية وكيف تطورها الكاتبة.","talkAtHome":"اسألوا الطالب: «ماذا تعلمت عن Esperanza حتى الآن، وما التفاصيل من الكتاب التي ساعدتك على فهمها بشكل أفضل؟»","body":"","image":"assets/grade10.png","imageAlt":"Sandra Cisneros بجانب غلاف The House on Mango Street.","links":[{"label":"مورد للمهارة: بناء الشخصية","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"موارد للعائلات متعددة اللغات","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"الصف الحادي عشر","title":"","whatLearning":"هذا الأسبوع في مادة ELA للصف الحادي عشر، كان الطلاب يقرؤون الشعر ويحللونه. وقد ركزوا على كيفية استخدام الشعراء للمتحدث والصور الفنية واختيار الكلمات والنبرة للتعبير عن الأفكار وصنع المعنى.","skillFocus":"استخدام تفاصيل مثل الصور الفنية واختيار الكلمات والنبرة لشرح معنى القصيدة والأفكار التي تنقلها.","talkAtHome":"اسألوا الطالب: «ما الذي تعتقد أن المتحدث يشعر به أو يحاول قوله، وما الكلمات أو الصور التي تجعلك تعتقد ذلك؟»","body":"","image":"assets/grade11.png","imageAlt":"شاعر يقرأ من ورقة أمام ميكروفون.","links":[{"label":"مورد للمهارة: تحليل SOAPSTone","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"موارد للعائلات متعددة اللغات","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"الصف الثاني عشر","title":"","whatLearning":"هذا الأسبوع في مادة ELA للصف الثاني عشر، كان الطلاب يعملون على المقالات الشخصية لعملية التقديم إلى الكلية. وقد طوروا مقالات توضح تجاربهم وأهدافهم ووجهة نظرهم بطريقة واضحة وجذابة.","skillFocus":"اختيار تجارب محددة واستخدام التأمل لإظهار شيء ذي معنى عن أنفسهم.","talkAtHome":"اسألوا الطالب: «ما تجربة واحدة قد تكتب عنها، وماذا تُظهر عنك؟»","body":"","image":"assets/grade12.png","imageAlt":"قبعة تخرج فوق مجموعة من الكتب مع شهادة.","links":[{"label":"مورد للمهارة: كتابة المقال الشخصي","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"موارد للعائلات متعددة اللغات","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"familySpotlight":{"eyebrow":"للعائلات","heading":"دروس ESL مجانية للبالغين في برونكس","body":"يقدم Bronx Adult Learning Center دروسًا مجانية للبالغين، بما في ذلك الإنجليزية كلغة ثانية (ESL)، خلال أكتوبر 2026. راجعوا منشور التسجيل لمعرفة المواقع والتواريخ والأوقات ومتطلبات الأهلية ومعلومات الاتصال.","image":"assets/october-2026-adult-learning-registration.png","imageAlt":"منشور تسجيل لخريف أكتوبر 2026 من Bronx Adult Learning Center للدروس المجانية للبالغين.","linkLabel":"فتح منشور التسجيل","linkUrl":"assets/october-2026-adult-learning-registration.png"},"contact":{"heading":"هل لديكم أسئلة؟","body":"تواصلوا مع المدرسة أو معلم الطالب إذا كانت لديكم أسئلة حول العمل الصفي أو دعم اللغة.","email":""},"ui":{"languageLabel":"اللغة","whatLearningLabel":"ما الذي نتعلمه","skillFocusLabel":"تركيز المهارة","talkAtHomeLabel":"تحدثوا عنه في المنزل"}},"bn":{"siteTitle":"ভাষা কাজে","subtitle":"হাই স্কুল ইংরেজি ভাষা ও সাহিত্য","tagline":"একসাথে ভাষা, আত্মবিশ্বাস ও সংযোগ গড়ে তুলি","issueLabel":"অক্টোবর ২০২৬","schoolName":"BRONXDALE","intro":"এই সপ্তাহে ইংরেজিতে শিক্ষার্থীরা কী শিখেছে, কোন দক্ষতাগুলো অনুশীলন করেছে এবং পরিবারগুলো বাড়িতে ব্যবহার করতে পারে এমন ঐচ্ছিক রিসোর্স দেখুন।","translationNotice":"স্কুলের তথ্য আরও সহজলভ্য করার জন্য অনুবাদ দেওয়া হয়েছে। কিছু অস্পষ্ট হলে স্কুলের সঙ্গে যোগাযোগ করুন।","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"৯ম শ্রেণি","title":"","whatLearning":"এই সপ্তাহে ৯ম শ্রেণির ELA-তে শিক্ষার্থীরা The Music of Erich Zann পড়েছে এবং পরিবেশ ও চরিত্রায়ন কীভাবে মুড ও অর্থ তৈরি করে তা অনুসন্ধান করেছে।","skillFocus":"লেখক কীভাবে চরিত্র ও পরিবেশের বিবরণ ব্যবহার করে পাঠকের অভিজ্ঞতা গড়ে তোলেন তা বিশ্লেষণ করা।","talkAtHome":"আপনার শিক্ষার্থীকে জিজ্ঞেস করুন: “কোন বিষয় একটি গল্পকে ভয়ের বা উত্তেজনাপূর্ণ মনে করায়, আর কোন বিবরণ সেই অনুভূতি তৈরি করে?”","body":"","image":"assets/grade9.png","imageAlt":"অন্ধকার ঘরে ভীত এক বেহালাবাদক বাজাচ্ছে—এমন একটি চিত্র।","links":[{"label":"দক্ষতা রিসোর্স: পরিবেশ ও চরিত্রায়ন","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"বহুভাষিক পরিবারের জন্য রিসোর্স","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"১০ম শ্রেণি","title":"","whatLearning":"এই সপ্তাহে ১০ম শ্রেণির ELA-তে শিক্ষার্থীরা Sandra Cisneros-এর The House on Mango Street পড়েছে এবং বর্ণনা, কাজ, সম্পর্ক এবং নিজেকে ও অন্যদের দেখার ভঙ্গির মাধ্যমে Cisneros কীভাবে চরিত্র গড়ে তোলেন তা বিশ্লেষণ করেছে।","skillFocus":"টেক্সটের বিবরণ ব্যবহার করে চরিত্র সম্পর্কে কী জানা যায় এবং লেখক কীভাবে চরিত্রটি গড়ে তোলেন তা ব্যাখ্যা করে চরিত্রায়ন বিশ্লেষণ করা।","talkAtHome":"আপনার শিক্ষার্থীকে জিজ্ঞেস করুন: “এখন পর্যন্ত Esperanza সম্পর্কে তুমি কী শিখেছ, আর বইয়ের কোন বিবরণ তাকে আরও ভালোভাবে বুঝতে সাহায্য করেছে?”","body":"","image":"assets/grade10.png","imageAlt":"The House on Mango Street-এর প্রচ্ছদের পাশে Sandra Cisneros।","links":[{"label":"দক্ষতা রিসোর্স: চরিত্রায়ন","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"বহুভাষিক পরিবারের জন্য রিসোর্স","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"১১শ শ্রেণি","title":"","whatLearning":"এই সপ্তাহে ১১শ শ্রেণির ELA-তে শিক্ষার্থীরা কবিতা পড়েছে ও বিশ্লেষণ করেছে। কবিরা কীভাবে বক্তা, চিত্রকল্প, শব্দচয়ন ও স্বর ব্যবহার করে ধারণা প্রকাশ ও অর্থ তৈরি করেন তা তারা গভীরভাবে দেখেছে।","skillFocus":"চিত্রকল্প, শব্দচয়ন ও স্বরের মতো বিবরণ ব্যবহার করে কবিতার অর্থ এবং যে ধারণা প্রকাশ করে তা ব্যাখ্যা করা।","talkAtHome":"আপনার শিক্ষার্থীকে জিজ্ঞেস করুন: “তোমার মতে বক্তা কী অনুভব করছে বা কী বলতে চাইছে, আর কোন শব্দ বা চিত্র তোমাকে তা ভাবায়?”","body":"","image":"assets/grade11.png","imageAlt":"একজন কবি মাইক্রোফোনের সামনে কাগজ থেকে পড়ছেন।","links":[{"label":"দক্ষতা রিসোর্স: SOAPSTone বিশ্লেষণ","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"বহুভাষিক পরিবারের জন্য রিসোর্স","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"১২শ শ্রেণি","title":"","whatLearning":"এই সপ্তাহে ১২শ শ্রেণির ELA-তে শিক্ষার্থীরা কলেজে আবেদনের জন্য ব্যক্তিগত প্রবন্ধ নিয়ে কাজ করেছে। তারা এমন প্রবন্ধ তৈরি করেছে যা তাদের অভিজ্ঞতা, লক্ষ্য ও দৃষ্টিভঙ্গি স্পষ্ট ও আকর্ষণীয়ভাবে তুলে ধরে।","skillFocus":"নির্দিষ্ট অভিজ্ঞতা বেছে নিয়ে প্রতিফলনের মাধ্যমে নিজের সম্পর্কে অর্থবহ কিছু দেখানো।","talkAtHome":"আপনার শিক্ষার্থীকে জিজ্ঞেস করুন: “কোন একটি অভিজ্ঞতা নিয়ে তুমি লিখতে পারো, আর সেটি তোমার সম্পর্কে কী দেখায়?”","body":"","image":"assets/grade12.png","imageAlt":"বইয়ের স্তূপের ওপর একটি গ্র্যাজুয়েশন ক্যাপ ও ডিপ্লোমা।","links":[{"label":"দক্ষতা রিসোর্স: ব্যক্তিগত প্রবন্ধ লেখা","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"বহুভাষিক পরিবারের জন্য রিসোর্স","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"familySpotlight":{"eyebrow":"পরিবারের জন্য","heading":"ব্রঙ্কসে প্রাপ্তবয়স্কদের জন্য বিনামূল্যের ESL ক্লাস","body":"Bronx Adult Learning Center অক্টোবর ২০২৬-এ প্রাপ্তবয়স্কদের জন্য বিনামূল্যের ক্লাস দিচ্ছে, যার মধ্যে English as a Second Language (ESL) রয়েছে। স্থান, তারিখ, সময়, যোগ্যতার শর্ত এবং যোগাযোগের তথ্যের জন্য নিবন্ধন ফ্লায়ার দেখুন।","image":"assets/october-2026-adult-learning-registration.png","imageAlt":"Bronx Adult Learning Center-এর অক্টোবর ২০২৬-এর বিনামূল্যের প্রাপ্তবয়স্ক ক্লাসের নিবন্ধন ফ্লায়ার।","linkLabel":"নিবন্ধন ফ্লায়ার খুলুন","linkUrl":"assets/october-2026-adult-learning-registration.png"},"contact":{"heading":"প্রশ্ন আছে?","body":"ক্লাসের কাজ বা ভাষা সহায়তা সম্পর্কে প্রশ্ন থাকলে স্কুল বা আপনার শিক্ষার্থীর শিক্ষকের সঙ্গে যোগাযোগ করুন।","email":""},"ui":{"languageLabel":"ভাষা","whatLearningLabel":"আমরা কী শিখছি","skillFocusLabel":"দক্ষতার ফোকাস","talkAtHomeLabel":"বাড়িতে কথা বলুন"}},"ur":{"siteTitle":"زبان عمل میں","subtitle":"ہائی اسکول انگریزی زبان و ادب","tagline":"مل کر زبان، اعتماد اور تعلق بناتے ہیں","issueLabel":"اکتوبر 2026","schoolName":"BRONXDALE","intro":"دیکھیں کہ طلبہ نے اس ہفتے انگریزی میں کیا سیکھا ہے، کن مہارتوں کی مشق کی ہے، اور گھر میں خاندانوں کے لیے کون سے اختیاری وسائل دستیاب ہیں۔","translationNotice":"اسکول کی معلومات کو زیادہ قابل رسائی بنانے کے لیے ترجمے فراہم کیے گئے ہیں۔ اگر کوئی بات واضح نہ ہو تو اسکول سے رابطہ کریں۔","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"نویں جماعت","title":"","whatLearning":"اس ہفتے نویں جماعت کی ELA میں طلبہ The Music of Erich Zann پڑھتے رہے ہیں اور یہ دیکھتے رہے ہیں کہ ماحول اور کردار نگاری کس طرح فضا اور معنی پیدا کرتے ہیں۔","skillFocus":"یہ تجزیہ کرنا کہ مصنف کرداروں اور ماحول کی تفصیلات سے قاری کے تجربے کو کس طرح تشکیل دیتا ہے۔","talkAtHome":"اپنے طالب علم سے پوچھیں: “کسی کہانی کو خوفناک یا سنسنی خیز کیا بناتا ہے، اور کون سی تفصیلات یہ احساس پیدا کرتی ہیں؟”","body":"","image":"assets/grade9.png","imageAlt":"ایک تاریک کمرے میں خوف زدہ وائلن نواز کی تصویر۔","links":[{"label":"مہارت کا وسیلہ: ماحول اور کردار نگاری","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"کثیر لسانی خاندانوں کے لیے وسائل","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"دسویں جماعت","title":"","whatLearning":"اس ہفتے دسویں جماعت کی ELA میں طلبہ Sandra Cisneros کی The House on Mango Street پڑھتے رہے ہیں اور یہ دیکھتے رہے ہیں کہ Cisneros وضاحتوں، اعمال، تعلقات اور اپنے اور دوسروں کو دیکھنے کے انداز سے کرداروں کو کس طرح تشکیل دیتی ہیں۔","skillFocus":"متن کی تفصیلات استعمال کرکے کردار نگاری کا تجزیہ کرنا اور یہ سمجھانا کہ ہم کسی کردار کے بارے میں کیا سیکھتے ہیں اور مصنفہ اسے کیسے تیار کرتی ہیں۔","talkAtHome":"اپنے طالب علم سے پوچھیں: “اب تک تم نے Esperanza کے بارے میں کیا سیکھا، اور کتاب کی کون سی تفصیلات نے اسے بہتر سمجھنے میں مدد کی؟”","body":"","image":"assets/grade10.png","imageAlt":"The House on Mango Street کے سرورق کے ساتھ Sandra Cisneros۔","links":[{"label":"مہارت کا وسیلہ: کردار نگاری","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"کثیر لسانی خاندانوں کے لیے وسائل","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"گیارہویں جماعت","title":"","whatLearning":"اس ہفتے گیارہویں جماعت کی ELA میں طلبہ شاعری پڑھتے اور اس کا تجزیہ کرتے رہے ہیں۔ انہوں نے غور سے دیکھا ہے کہ شاعر متکلم، منظر کشی، لفظوں کے انتخاب اور لہجے سے خیالات اور معنی کیسے پیدا کرتے ہیں۔","skillFocus":"منظر کشی، لفظوں کے انتخاب اور لہجے جیسی تفصیلات سے نظم کے معنی اور اس کے خیالات کی وضاحت کرنا۔","talkAtHome":"اپنے طالب علم سے پوچھیں: “آپ کے خیال میں متکلم کیا محسوس کر رہا ہے یا کیا کہنا چاہتا ہے، اور کون سے الفاظ یا تصاویر آپ کو ایسا سوچنے پر مجبور کرتے ہیں؟”","body":"","image":"assets/grade11.png","imageAlt":"ایک شاعر مائیکروفون کے سامنے کاغذ سے پڑھ رہا ہے۔","links":[{"label":"مہارت کا وسیلہ: SOAPSTone تجزیہ","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"کثیر لسانی خاندانوں کے لیے وسائل","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"بارہویں جماعت","title":"","whatLearning":"اس ہفتے بارہویں جماعت کی ELA میں طلبہ کالج درخواست کے لیے ذاتی مضامین پر کام کرتے رہے ہیں۔ وہ ایسے مضامین تیار کر رہے ہیں جو ان کے تجربات، اہداف اور نقطۂ نظر کو واضح اور دلچسپ انداز میں بیان کریں۔","skillFocus":"مخصوص تجربات کا انتخاب کرنا اور غور و فکر سے اپنے بارے میں کوئی معنی خیز بات دکھانا۔","talkAtHome":"اپنے طالب علم سے پوچھیں: “ایک ایسا تجربہ کون سا ہے جس کے بارے میں آپ لکھ سکتے ہیں، اور وہ آپ کے بارے میں کیا ظاہر کرتا ہے؟”","body":"","image":"assets/grade12.png","imageAlt":"کتابوں کے ڈھیر پر گریجویشن کی ٹوپی اور ڈپلومہ۔","links":[{"label":"مہارت کا وسیلہ: ذاتی مضمون لکھنا","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"کثیر لسانی خاندانوں کے لیے وسائل","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"familySpotlight":{"eyebrow":"خاندانوں کے لیے","heading":"برونکس میں بالغوں کے لیے مفت ESL کلاسیں","body":"Bronx Adult Learning Center اکتوبر 2026 میں بالغوں کے لیے بلا معاوضہ کلاسیں پیش کر رہا ہے، جن میں English as a Second Language (ESL) بھی شامل ہے۔ مقامات، تاریخوں، اوقات، اہلیت اور رابطے کی معلومات کے لیے رجسٹریشن فلائر دیکھیں۔","image":"assets/october-2026-adult-learning-registration.png","imageAlt":"Bronx Adult Learning Center کی اکتوبر 2026 کی مفت بالغ کلاسوں کا رجسٹریشن فلائر۔","linkLabel":"رجسٹریشن فلائر کھولیں","linkUrl":"assets/october-2026-adult-learning-registration.png"},"contact":{"heading":"سوالات؟","body":"کلاس ورک یا زبان کی مدد کے بارے میں سوالات ہوں تو اسکول یا اپنے طالب علم کے استاد سے رابطہ کریں۔","email":""},"ui":{"languageLabel":"زبان","whatLearningLabel":"ہم کیا سیکھ رہے ہیں","skillFocusLabel":"مہارت کا مرکز","talkAtHomeLabel":"گھر پر بات کریں"}},"vi":{"siteTitle":"Ngôn ngữ trong hành động","subtitle":"Ngữ văn Anh bậc trung học","tagline":"Cùng nhau xây dựng ngôn ngữ, sự tự tin và kết nối","issueLabel":"Tháng 10 năm 2026","schoolName":"BRONXDALE","intro":"Xem những gì học sinh đã học trong môn Tiếng Anh tuần này, các kỹ năng các em đã luyện tập và những tài nguyên tùy chọn mà gia đình có thể sử dụng tại nhà.","translationNotice":"Bản dịch được cung cấp để giúp thông tin của trường dễ tiếp cận hơn. Vui lòng liên hệ với trường nếu có điều gì chưa rõ.","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"Lớp 9","title":"","whatLearning":"Tuần này trong môn ELA lớp 9, học sinh đã đọc The Music of Erich Zann và tìm hiểu cách bối cảnh và cách xây dựng nhân vật tạo nên không khí và ý nghĩa.","skillFocus":"Phân tích cách tác giả sử dụng chi tiết về nhân vật và bối cảnh để định hình trải nghiệm của người đọc.","talkAtHome":"Hãy hỏi học sinh: “Điều gì làm một câu chuyện trở nên rùng rợn hoặc hồi hộp, và những chi tiết nào tạo ra cảm giác đó?”","body":"","image":"assets/grade9.png","imageAlt":"Minh họa một nghệ sĩ vĩ cầm sợ hãi đang chơi trong căn phòng tối.","links":[{"label":"Tài nguyên kỹ năng: Bối cảnh & xây dựng nhân vật","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"Tài nguyên cho gia đình đa ngôn ngữ","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"Lớp 10","title":"","whatLearning":"Tuần này trong môn ELA lớp 10, học sinh đã đọc The House on Mango Street của Sandra Cisneros và xem xét cách Cisneros xây dựng nhân vật qua miêu tả, hành động, các mối quan hệ và cách họ nhìn nhận bản thân và người khác.","skillFocus":"Phân tích cách xây dựng nhân vật bằng cách sử dụng chi tiết trong văn bản để giải thích ta biết gì về một nhân vật và tác giả phát triển nhân vật đó như thế nào.","talkAtHome":"Hãy hỏi học sinh: “Đến giờ con đã biết gì về Esperanza, và chi tiết nào trong sách giúp con hiểu cô ấy rõ hơn?”","body":"","image":"assets/grade10.png","imageAlt":"Sandra Cisneros bên cạnh bìa sách The House on Mango Street.","links":[{"label":"Tài nguyên kỹ năng: Xây dựng nhân vật","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"Tài nguyên cho gia đình đa ngôn ngữ","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"Lớp 11","title":"","whatLearning":"Tuần này trong môn ELA lớp 11, học sinh đã đọc và phân tích thơ. Các em tập trung vào cách nhà thơ sử dụng người nói, hình ảnh, lựa chọn từ ngữ và giọng điệu để truyền đạt ý tưởng và tạo nghĩa.","skillFocus":"Sử dụng các chi tiết như hình ảnh, lựa chọn từ ngữ và giọng điệu để giải thích ý nghĩa của bài thơ và những ý tưởng bài thơ truyền đạt.","talkAtHome":"Hãy hỏi học sinh: “Con nghĩ người nói đang cảm thấy gì hoặc muốn nói điều gì, và những từ ngữ hay hình ảnh nào khiến con nghĩ như vậy?”","body":"","image":"assets/grade11.png","imageAlt":"Một nhà thơ đọc từ tờ giấy trước micro.","links":[{"label":"Tài nguyên kỹ năng: Phân tích SOAPSTone","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"Tài nguyên cho gia đình đa ngôn ngữ","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"Lớp 12","title":"","whatLearning":"Tuần này trong môn ELA lớp 12, học sinh đã làm bài luận cá nhân cho quá trình nộp đơn đại học. Các em đang phát triển những bài luận thể hiện trải nghiệm, mục tiêu và góc nhìn của mình một cách rõ ràng và cuốn hút.","skillFocus":"Chọn những trải nghiệm cụ thể và dùng sự suy ngẫm để thể hiện điều có ý nghĩa về bản thân.","talkAtHome":"Hãy hỏi học sinh: “Một trải nghiệm nào con có thể viết về, và trải nghiệm đó cho thấy điều gì về con?”","body":"","image":"assets/grade12.png","imageAlt":"Mũ tốt nghiệp trên chồng sách cùng bằng tốt nghiệp.","links":[{"label":"Tài nguyên kỹ năng: Viết bài luận cá nhân","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"Tài nguyên cho gia đình đa ngôn ngữ","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"familySpotlight":{"eyebrow":"Dành cho gia đình","heading":"Lớp ESL miễn phí cho người lớn tại Bronx","body":"Bronx Adult Learning Center đang cung cấp các lớp học miễn phí cho người lớn, bao gồm Tiếng Anh như Ngôn ngữ Thứ hai (ESL), trong tháng 10 năm 2026. Xem tờ đăng ký để biết địa điểm, ngày, giờ, điều kiện tham gia và thông tin liên hệ.","image":"assets/october-2026-adult-learning-registration.png","imageAlt":"Tờ đăng ký tháng 10 năm 2026 của Bronx Adult Learning Center cho các lớp học miễn phí dành cho người lớn.","linkLabel":"Mở tờ đăng ký","linkUrl":"assets/october-2026-adult-learning-registration.png"},"contact":{"heading":"Có câu hỏi?","body":"Hãy liên hệ với trường hoặc giáo viên của học sinh nếu bạn có câu hỏi về bài tập trên lớp hoặc hỗ trợ ngôn ngữ.","email":""},"ui":{"languageLabel":"Ngôn ngữ","whatLearningLabel":"Chúng tôi đang học gì","skillFocusLabel":"Trọng tâm kỹ năng","talkAtHomeLabel":"Trao đổi tại nhà"}},"ff":{"siteTitle":"Ɗemngal e Golle","subtitle":"English Language Arts e High School","tagline":"En ɓeydida ɗemngal, hoolaare e jokkondiral","issueLabel":"Oktobur 2026","schoolName":"BRONXDALE","intro":"Yiy ko janngooɓe ɓe njanngi e English ndee yontere, baawɗe ɓe ngolliri, e kaɓirɗe suɓaande ɗe galleeji mbaawi huutoraade e suudu.","translationNotice":"Firooje ɗee ko ngam wallude galleeji heɓde humpito lekki. Jokkondir e ekkol so huunde waawaa faamde.","languages":["en","sq","ar","es","ff","bn","ur","vi"],"sections":[{"id":"grade9","eyebrow":"Grade 9","title":"","whatLearning":"Ndee yontere e ELA Grade 9, janngooɓe ɓe njanngii The Music of Erich Zann, ɓe ndaarata no nokku e mbaadi jeyaaɗo waɗata mood e maana.","skillFocus":"Ƴeewtaade no binndoowo huutortoo humpito baɗte jeyaaɓe e nokku ngam feewde ko janngoowo nana.","talkAtHome":"Naamno ɗum: “Ko honɗun waɗata taarindi wonde kulol walla suspense, tee hol humpito waɗata ɗuum?”","body":"","image":"assets/grade9.png","imageAlt":"Nate violinist kulɗo ena fijja e suudu niɓɓungu.","links":[{"label":"Kaɓirgol baawɗe: Nokku & mbaadi jeyaaɗo","url":"https://www.bbc.co.uk/bitesize/guides/zy722hv/revision/2"},{"label":"Kaɓirɗe ngam galleeji ɗi ɗemɗe keewɗe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade10","eyebrow":"Grade 10","title":"","whatLearning":"Ndee yontere e ELA Grade 10, janngooɓe ɓe njanngii The House on Mango Street mo Sandra Cisneros, ɓe ndaarata no o mahiri jeyaaɓe e sifagol, golle, jokkondiral e no ɓe njiyata hoore mum e woɓɓe.","skillFocus":"Ƴeewtaade mbaadi jeyaaɗo huutoraade humpito e binndol ngam hollude ko en anndi baɗte jeyaaɗo e no binndoowo mahiri mo.","talkAtHome":"Naamno ɗum: “Ko honɗun a anndi baɗte Esperanza haa jooni, tee hol humpito e deftere walli maa faamde mo?”","body":"","image":"assets/grade10.png","imageAlt":"Sandra Cisneros e sara cover The House on Mango Street.","links":[{"label":"Kaɓirgol baawɗe: Mbaadi jeyaaɗo","url":"https://liberalarts.oregonstate.edu/wlf/what-characterization-literature-definition-and-examples"},{"label":"Kaɓirɗe ngam galleeji ɗi ɗemɗe keewɗe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade11","eyebrow":"Grade 11","title":"","whatLearning":"Ndee yontere e ELA Grade 11, janngooɓe ɓe njanngii e ƴeewtii poetry. Ɓe ndaarata no poet huutortoo speaker, imagery, cuɓagol kelme e tone ngam yaltinde miijo e maana.","skillFocus":"Huutoraade humpito bana imagery, cuɓagol kelme e tone ngam sifagol maana poetry e miijo ɗe ngal yaltina.","talkAtHome":"Naamno ɗum: “Ko honɗun a miijata speaker nana walla yiɗi wowlude, tee hol kelme walla nate waɗi maa miijude ɗuum?”","body":"","image":"assets/grade11.png","imageAlt":"Poet ena jannga e kaayit yeeso microphone.","links":[{"label":"Kaɓirgol baawɗe: SOAPSTone Analysis","url":"https://www.albert.io/blog/soapstone-analysis-guide-for-ap-exams/"},{"label":"Kaɓirɗe ngam galleeji ɗi ɗemɗe keewɗe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]},{"id":"grade12","eyebrow":"Grade 12","title":"","whatLearning":"Ndee yontere e ELA Grade 12, janngooɓe ɓe ngollii e personal statements ngam college application. Ɓe mahata essays ɗe hollata ko ɓe paɗi, ko ɓe yiɗi e miijo mum e laawol laaɓngol.","skillFocus":"Suɓaade paɗe keeriiɗe e huutoraade miijagol ngam hollude huunde muhimnde baɗte hoore mum.","talkAtHome":"Naamno ɗum: “Hol paɗal gootal a waawi winndude baɗte mum, tee ko ngal hollata baɗte maa?”","body":"","image":"assets/grade12.png","imageAlt":"Graduation cap e dow defte e diploma.","links":[{"label":"Kaɓirgol baawɗe: Personal Statement Writing","url":"https://apply.jhu.edu/college-planning-guide/essays-that-worked/"},{"label":"Kaɓirɗe ngam galleeji ɗi ɗemɗe keewɗe","url":"https://www.schools.nyc.gov/learning/multilingual-learners/resources-for-multilingual-and-immigrant-families"}]}],"familySpotlight":{"eyebrow":"Ngam Galleeji","heading":"Kalasuuji ESL ɗi alaa yoɓde ngam mawɓe e Bronx","body":"Bronx Adult Learning Center ena hokkude kalasuuji mawɓe ɗi alaa yoɓde, e mum English as a Second Language (ESL), e Oktobur 2026. Ƴeew flyer registration ngam nokkuuji, ñalɗi, waktuuji, sarɗiiji e humpito jokkondiral.","image":"assets/october-2026-adult-learning-registration.png","imageAlt":"Flyer registration Bronx Adult Learning Center ngam kalasuuji mawɓe ɗi alaa yoɓde.","linkLabel":"Uddit flyer registration","linkUrl":"assets/october-2026-adult-learning-registration.png"},"contact":{"heading":"Aɗa jogii naamne?","body":"Jokkondir e ekkol walla jannginoowo ɓiɗɗo maa so a jogii naamne baɗte golle kalaas walla ballal ɗemngal.","email":""},"ui":{"languageLabel":"Ɗemngal","whatLearningLabel":"Ko min njanngata","skillFocusLabel":"Baawɗe min njillii","talkAtHomeLabel":"Wowlude e suudu"}}},"publishedAt":"2026-10-08","seededTranslations":true};
+window.NEWSLETTER_ARCHIVE = {
+  "current": "2026-10-12",
+  "editions": {
+    "2026-10-12": {
+      "en": {
+        "name": "English",
+        "dir": "ltr",
+        "title": "Language in Action",
+        "subtitle": "HIGH SCHOOL ENGLISH LANGUAGE ARTS",
+        "tagline": "BUILDING LANGUAGE, CONFIDENCE, AND CONNECTION TOGETHER",
+        "week": "Week of October 12, 2026",
+        "grades": {
+          "9": {
+            "title": "9th Grade",
+            "body": "Despite the short week, our 9th graders made great progress! We wrapped up our study of The Music of Erich Zann by analyzing its central theme and examining how the author uses setting and conflict to develop it—a key skill for the Regents exam. On Thursday, students also completed the Measure of Student Learning (MOSL) writing assessment, giving us a baseline to track and support their writing growth throughout the school year.",
+            "links": [
+              [
+                "NYC Public Schools Speak Your Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Text-Analysis Responses on the NYS Regents Exams",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ],
+            "image": "assets/erich-zann.png",
+            "imageAlt": "Illustration of a violinist from The Music of Erich Zann"
+          },
+          "10": {
+            "title": "10th Grade",
+            "body": "Now about halfway through The House on Mango Street, our 10th graders deepened their character analysis this week by comparing two characters to unpack complex themes—a key skill for success on the ELA Regents exam. On Thursday, October 15, students also completed the Measure of Student Learning (MOSL) writing assessment, providing a vital baseline to help us track and support their writing growth throughout the school year.",
+            "links": [
+              [
+                "NYC Public Schools Speak Your Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Characterization in Literature",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ],
+            "image": "assets/house-on-mango-street.png",
+            "imageAlt": "Cover of The House on Mango Street by Sandra Cisneros"
+          },
+          "11": {
+            "title": "11th Grade",
+            "body": "Our 11th graders had an important week focused on future planning and deep text analysis! On Wednesday, students took the PSAT to help prepare them for the college-entry SATs, and on Thursday, they completed the Measure of Student Learning (MOSL) writing assessment. In class, we dived into “On the Rainy River” as we continued honing their skills in rigorous literary analysis.",
+            "links": [
+              [
+                "NYC Public Schools Speak Your Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Identifying Theme from a Topic",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ],
+            "image": "assets/img_26.png",
+            "imageAlt": "Painting of an interior used as a literary-themed visual"
+          },
+          "12": {
+            "title": "12th Grade",
+            "body": "Our 12th graders had an exciting and busy week! On Wednesday, students took a field trip to Manhattan, and on Thursday, they completed the Measure of Student Learning (MOSL) writing assessment to establish a baseline for their growth this year. We also wrapped up their college application personal statements. If you get a chance, ask your student to share what they wrote! Next, we started a new novel that we will read closely and analyze over the next month.",
+            "links": [
+              [
+                "NYC Public Schools Speak Your Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "See More Examples of Strong College Application Essays",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ],
+            "image": "assets/img_19.jpeg",
+            "imageAlt": "Old books on a shelf"
+          }
+        }
+      },
+      "fr": {
+        "name": "Français",
+        "dir": "ltr",
+        "title": "La langue en action",
+        "subtitle": "LANGUE ET LITTÉRATURE ANGLAISES AU LYCÉE",
+        "tagline": "DÉVELOPPER ENSEMBLE LA LANGUE, LA CONFIANCE ET LES LIENS",
+        "week": "Semaine du 12 octobre 2026",
+        "grades": {
+          "9": {
+            "title": "9e année",
+            "body": "Malgré cette semaine courte, nos élèves de 9e année ont fait de très beaux progrès ! Nous avons terminé notre étude de The Music of Erich Zann en analysant son thème central et en examinant comment l’auteur utilise le cadre et le conflit pour le développer — une compétence essentielle pour l’examen Regents. Jeudi, les élèves ont également passé l’évaluation écrite Measure of Student Learning (MOSL), qui nous donne un point de départ pour suivre et soutenir leurs progrès en écriture tout au long de l’année scolaire.",
+            "links": [
+              [
+                "Les écoles publiques de NYC parlent votre langue !",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Réponses d’analyse de texte aux examens Regents de l’État de New York",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "10e année",
+            "body": "À peu près à mi-parcours de The House on Mango Street, nos élèves de 10e année ont approfondi cette semaine leur analyse des personnages en comparant deux personnages afin de dégager des thèmes complexes — une compétence essentielle pour réussir l’examen ELA Regents. Jeudi 15 octobre, les élèves ont également passé l’évaluation écrite Measure of Student Learning (MOSL), qui fournit un point de départ important pour suivre et soutenir leurs progrès en écriture tout au long de l’année scolaire.",
+            "links": [
+              [
+                "Les écoles publiques de NYC parlent votre langue !",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "La caractérisation en littérature",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "11e année",
+            "body": "Nos élèves de 11e année ont eu une semaine importante, axée sur la préparation de leur avenir et l’analyse approfondie des textes ! Mercredi, ils ont passé le PSAT afin de se préparer aux SAT d’admission à l’université, et jeudi, ils ont passé l’évaluation écrite Measure of Student Learning (MOSL). En classe, nous nous sommes plongés dans « On the Rainy River » tout en continuant à renforcer leurs compétences en analyse littéraire rigoureuse.",
+            "links": [
+              [
+                "Les écoles publiques de NYC parlent votre langue !",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Identifier un thème à partir d’un sujet",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "12e année",
+            "body": "Nos élèves de 12e année ont eu une semaine à la fois passionnante et bien remplie ! Mercredi, ils ont participé à une sortie scolaire à Manhattan, et jeudi, ils ont passé l’évaluation écrite Measure of Student Learning (MOSL) afin d’établir un point de départ pour mesurer leurs progrès cette année. Nous avons également terminé leurs essais personnels pour les candidatures universitaires. Si vous en avez l’occasion, demandez à votre élève de vous montrer ce qu’il ou elle a écrit ! Ensuite, nous avons commencé un nouveau roman que nous lirons attentivement et analyserons au cours du prochain mois.",
+            "links": [
+              [
+                "Les écoles publiques de NYC parlent votre langue !",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Voir d’autres exemples de bons essais de candidature universitaire",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      },
+      "es": {
+        "name": "Español",
+        "dir": "ltr",
+        "title": "El lenguaje en acción",
+        "subtitle": "LENGUA Y LITERATURA INGLESA DE ESCUELA SECUNDARIA",
+        "tagline": "DESARROLLANDO JUNTOS EL LENGUAJE, LA CONFIANZA Y LA CONEXIÓN",
+        "week": "Semana del 12 de octubre de 2026",
+        "grades": {
+          "9": {
+            "title": "9.º grado",
+            "body": "¡A pesar de la semana corta, nuestros estudiantes de 9.º grado lograron grandes avances! Terminamos nuestro estudio de The Music of Erich Zann analizando su tema central y examinando cómo el autor utiliza el ambiente y el conflicto para desarrollarlo, una habilidad clave para el examen Regents. El jueves, los estudiantes también completaron la evaluación escrita Measure of Student Learning (MOSL), lo que nos da una base para seguir y apoyar su crecimiento en la escritura durante todo el año escolar.",
+            "links": [
+              [
+                "¡Las Escuelas Públicas de NYC hablan su idioma!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Respuestas de análisis de texto en los exámenes Regents del estado de Nueva York",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "10.º grado",
+            "body": "Ahora que estamos aproximadamente a la mitad de The House on Mango Street, nuestros estudiantes de 10.º grado profundizaron esta semana su análisis de personajes comparando a dos personajes para explorar temas complejos, una habilidad clave para tener éxito en el examen ELA Regents. El jueves 15 de octubre, los estudiantes también completaron la evaluación escrita Measure of Student Learning (MOSL), que nos proporciona una base importante para seguir y apoyar su crecimiento en la escritura durante todo el año escolar.",
+            "links": [
+              [
+                "¡Las Escuelas Públicas de NYC hablan su idioma!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "La caracterización en la literatura",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "11.º grado",
+            "body": "¡Nuestros estudiantes de 11.º grado tuvieron una semana importante enfocada en la planificación para el futuro y el análisis profundo de textos! El miércoles, tomaron el PSAT para prepararse para los SAT de ingreso a la universidad, y el jueves completaron la evaluación escrita Measure of Student Learning (MOSL). En clase, profundizamos en “On the Rainy River” mientras continuábamos fortaleciendo sus habilidades de análisis literario riguroso.",
+            "links": [
+              [
+                "¡Las Escuelas Públicas de NYC hablan su idioma!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Identificar un tema a partir de un asunto",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "12.º grado",
+            "body": "¡Nuestros estudiantes de 12.º grado tuvieron una semana emocionante y muy ocupada! El miércoles, hicieron una excursión a Manhattan, y el jueves completaron la evaluación escrita Measure of Student Learning (MOSL) para establecer una base con la que medir su crecimiento este año. También terminamos sus ensayos personales para las solicitudes universitarias. Si tiene la oportunidad, ¡pídale a su estudiante que le muestre lo que escribió! Luego comenzamos una nueva novela que leeremos atentamente y analizaremos durante el próximo mes.",
+            "links": [
+              [
+                "¡Las Escuelas Públicas de NYC hablan su idioma!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Ver más ejemplos de excelentes ensayos de solicitud universitaria",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      },
+      "ar": {
+        "name": "العربية",
+        "dir": "rtl",
+        "title": "اللغة في التطبيق",
+        "subtitle": "اللغة الإنجليزية وآدابها في المرحلة الثانوية",
+        "tagline": "نبني اللغة والثقة والتواصل معًا",
+        "week": "أسبوع 12 أكتوبر 2026",
+        "grades": {
+          "9": {
+            "title": "الصف التاسع",
+            "body": "على الرغم من قِصر هذا الأسبوع، أحرز طلاب الصف التاسع تقدماً كبيراً! أنهينا دراسة قصة The Music of Erich Zann من خلال تحليل موضوعها المركزي ودراسة كيفية استخدام الكاتب للمكان والصراع لتطويره، وهي مهارة أساسية في امتحان Regents. كما أتمّ الطلاب يوم الخميس تقييم الكتابة Measure of Student Learning (MOSL)، مما يمنحنا خط أساس لمتابعة نموهم في الكتابة ودعمه طوال العام الدراسي.",
+            "links": [
+              [
+                "مدارس مدينة نيويورك العامة تتحدث لغتك!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "إجابات تحليل النصوص في امتحانات Regents لولاية نيويورك",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "الصف العاشر",
+            "body": "بعد أن وصلنا تقريباً إلى منتصف The House on Mango Street، عمّق طلاب الصف العاشر هذا الأسبوع تحليلهم للشخصيات من خلال مقارنة شخصيتين لفهم موضوعات معقدة، وهي مهارة أساسية للنجاح في امتحان ELA Regents. ويوم الخميس 15 أكتوبر، أتمّ الطلاب أيضاً تقييم الكتابة Measure of Student Learning (MOSL)، مما يوفر لنا خط أساس مهماً لمتابعة نموهم في الكتابة ودعمه طوال العام الدراسي.",
+            "links": [
+              [
+                "مدارس مدينة نيويورك العامة تتحدث لغتك!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "بناء الشخصيات في الأدب",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "الصف الحادي عشر",
+            "body": "كان لدى طلاب الصف الحادي عشر أسبوع مهم ركّز على التخطيط للمستقبل والتحليل المتعمق للنصوص! يوم الأربعاء، أدّى الطلاب اختبار PSAT للمساعدة في الاستعداد لاختبارات SAT الخاصة بالقبول الجامعي، ويوم الخميس أتمّوا تقييم الكتابة Measure of Student Learning (MOSL). وفي الصف، تعمقنا في “On the Rainy River” مع مواصلة صقل مهاراتهم في التحليل الأدبي الدقيق.",
+            "links": [
+              [
+                "مدارس مدينة نيويورك العامة تتحدث لغتك!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "تحديد الفكرة الموضوعية انطلاقاً من موضوع",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "الصف الثاني عشر",
+            "body": "كان لدى طلاب الصف الثاني عشر أسبوع حافل ومثير! يوم الأربعاء، شارك الطلاب في رحلة مدرسية إلى مانهاتن، ويوم الخميس أتمّوا تقييم الكتابة Measure of Student Learning (MOSL) لتحديد خط أساس لنموهم هذا العام. كما أنهينا البيانات الشخصية لطلبات الالتحاق بالجامعة. إذا سنحت لك الفرصة، فاطلب من طالبك أن يشاركك ما كتبه! بعد ذلك بدأنا رواية جديدة سنقرأها عن كثب ونحللها خلال الشهر المقبل.",
+            "links": [
+              [
+                "مدارس مدينة نيويورك العامة تتحدث لغتك!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "شاهد المزيد من أمثلة مقالات التقديم الجامعي القوية",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      },
+      "ur": {
+        "name": "اردو",
+        "dir": "rtl",
+        "title": "زبان عمل میں",
+        "subtitle": "ہائی اسکول انگریزی زبان اور ادب",
+        "tagline": "مل کر زبان، اعتماد اور تعلق مضبوط کرنا",
+        "week": "12 اکتوبر 2026 کا ہفتہ",
+        "grades": {
+          "9": {
+            "title": "نویں جماعت",
+            "body": "مختصر ہفتے کے باوجود، ہمارے نویں جماعت کے طلبہ نے بہت اچھی پیش رفت کی! ہم نے The Music of Erich Zann کا مطالعہ مکمل کیا، اس کے مرکزی موضوع کا تجزیہ کیا اور یہ دیکھا کہ مصنف ماحول اور تنازعے کو اس موضوع کو آگے بڑھانے کے لیے کیسے استعمال کرتا ہے—یہ Regents امتحان کے لیے ایک اہم مہارت ہے۔ جمعرات کو طلبہ نے Measure of Student Learning (MOSL) تحریری جائزہ بھی مکمل کیا، جس سے ہمیں پورے تعلیمی سال میں ان کی تحریری ترقی کو جانچنے اور سہارا دینے کے لیے ابتدائی معیار ملتا ہے۔",
+            "links": [
+              [
+                "NYC پبلک اسکولز آپ کی زبان بولتے ہیں!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "نیو یارک اسٹیٹ Regents امتحانات میں متن کے تجزیے کے جوابات",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "دسویں جماعت",
+            "body": "اب جبکہ ہم The House on Mango Street کے تقریباً آدھے حصے تک پہنچ چکے ہیں، ہمارے دسویں جماعت کے طلبہ نے اس ہفتے دو کرداروں کا موازنہ کرکے پیچیدہ موضوعات کو سمجھنے کے لیے اپنے کرداروں کے تجزیے کو مزید گہرا کیا—یہ ELA Regents امتحان میں کامیابی کے لیے ایک اہم مہارت ہے۔ جمعرات، 15 اکتوبر کو طلبہ نے Measure of Student Learning (MOSL) تحریری جائزہ بھی مکمل کیا، جس سے ہمیں پورے تعلیمی سال میں ان کی تحریری ترقی کو جانچنے اور سہارا دینے کے لیے ایک اہم ابتدائی معیار ملتا ہے۔",
+            "links": [
+              [
+                "NYC پبلک اسکولز آپ کی زبان بولتے ہیں!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "ادب میں کردار نگاری",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "گیارہویں جماعت",
+            "body": "ہمارے گیارہویں جماعت کے طلبہ کے لیے یہ مستقبل کی منصوبہ بندی اور گہرے متنی تجزیے پر توجہ دینے والا اہم ہفتہ تھا! بدھ کو طلبہ نے کالج میں داخلے کے SAT کی تیاری کے لیے PSAT دیا، اور جمعرات کو انہوں نے Measure of Student Learning (MOSL) تحریری جائزہ مکمل کیا۔ کلاس میں ہم نے “On the Rainy River” کا گہرا مطالعہ کیا اور سخت ادبی تجزیے کی مہارتوں کو مزید بہتر کیا۔",
+            "links": [
+              [
+                "NYC پبلک اسکولز آپ کی زبان بولتے ہیں!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "کسی موضوع سے مرکزی خیال کی شناخت کرنا",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "بارہویں جماعت",
+            "body": "ہمارے بارہویں جماعت کے طلبہ کے لیے یہ ایک مصروف اور دلچسپ ہفتہ تھا! بدھ کو طلبہ مین ہیٹن کے تعلیمی دورے پر گئے، اور جمعرات کو انہوں نے Measure of Student Learning (MOSL) تحریری جائزہ مکمل کیا تاکہ اس سال ان کی ترقی کے لیے ایک ابتدائی معیار قائم کیا جا سکے۔ ہم نے ان کے کالج درخواستوں کے ذاتی بیانات بھی مکمل کیے۔ اگر موقع ملے تو اپنے طالب علم سے کہیں کہ وہ آپ کے ساتھ اپنی تحریر شیئر کرے! اس کے بعد ہم نے ایک نیا ناول شروع کیا جسے اگلے مہینے کے دوران غور سے پڑھیں گے اور تجزیہ کریں گے۔",
+            "links": [
+              [
+                "NYC پبلک اسکولز آپ کی زبان بولتے ہیں!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "کالج درخواست کے مضبوط مضامین کی مزید مثالیں دیکھیں",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      },
+      "vi": {
+        "name": "Tiếng Việt",
+        "dir": "ltr",
+        "title": "Ngôn ngữ trong hành động",
+        "subtitle": "NGỮ VĂN ANH BẬC TRUNG HỌC",
+        "tagline": "CÙNG NHAU XÂY DỰNG NGÔN NGỮ, SỰ TỰ TIN VÀ KẾT NỐI",
+        "week": "Tuần bắt đầu ngày 12 tháng 10 năm 2026",
+        "grades": {
+          "9": {
+            "title": "Lớp 9",
+            "body": "Mặc dù tuần học ngắn, học sinh lớp 9 của chúng ta đã có nhiều tiến bộ! Chúng tôi đã hoàn thành việc học The Music of Erich Zann bằng cách phân tích chủ đề trung tâm và xem xét cách tác giả sử dụng bối cảnh và xung đột để phát triển chủ đề đó—một kỹ năng quan trọng cho kỳ thi Regents. Vào thứ Năm, học sinh cũng hoàn thành bài đánh giá viết Measure of Student Learning (MOSL), giúp chúng tôi có số liệu ban đầu để theo dõi và hỗ trợ sự tiến bộ về viết của các em trong suốt năm học.",
+            "links": [
+              [
+                "Trường Công lập NYC nói ngôn ngữ của bạn!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Bài trả lời phân tích văn bản trong kỳ thi Regents của Tiểu bang New York",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "Lớp 10",
+            "body": "Khi đã đọc được khoảng một nửa The House on Mango Street, học sinh lớp 10 của chúng ta đã đào sâu kỹ năng phân tích nhân vật trong tuần này bằng cách so sánh hai nhân vật để khám phá những chủ đề phức tạp—một kỹ năng quan trọng để thành công trong kỳ thi ELA Regents. Vào thứ Năm, ngày 15 tháng 10, học sinh cũng hoàn thành bài đánh giá viết Measure of Student Learning (MOSL), cung cấp số liệu ban đầu quan trọng để chúng tôi theo dõi và hỗ trợ sự tiến bộ về viết của các em trong suốt năm học.",
+            "links": [
+              [
+                "Trường Công lập NYC nói ngôn ngữ của bạn!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Xây dựng nhân vật trong văn học",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "Lớp 11",
+            "body": "Học sinh lớp 11 của chúng ta đã có một tuần quan trọng tập trung vào việc lập kế hoạch cho tương lai và phân tích văn bản chuyên sâu! Vào thứ Tư, học sinh làm bài PSAT để chuẩn bị cho kỳ thi SAT dùng trong tuyển sinh đại học, và vào thứ Năm, các em hoàn thành bài đánh giá viết Measure of Student Learning (MOSL). Trong lớp, chúng tôi đi sâu vào “On the Rainy River” trong khi tiếp tục rèn luyện kỹ năng phân tích văn học chặt chẽ.",
+            "links": [
+              [
+                "Trường Công lập NYC nói ngôn ngữ của bạn!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Xác định chủ đề từ một đề tài",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "Lớp 12",
+            "body": "Học sinh lớp 12 của chúng ta đã có một tuần vừa thú vị vừa bận rộn! Vào thứ Tư, học sinh tham gia chuyến đi thực tế đến Manhattan, và vào thứ Năm, các em hoàn thành bài đánh giá viết Measure of Student Learning (MOSL) để thiết lập mức ban đầu cho việc theo dõi sự tiến bộ trong năm nay. Chúng tôi cũng đã hoàn tất các bài luận cá nhân cho hồ sơ đại học. Nếu có dịp, hãy hỏi học sinh của quý vị chia sẻ những gì các em đã viết! Tiếp theo, chúng tôi bắt đầu một cuốn tiểu thuyết mới mà lớp sẽ đọc kỹ và phân tích trong tháng tới.",
+            "links": [
+              [
+                "Trường Công lập NYC nói ngôn ngữ của bạn!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Xem thêm ví dụ về các bài luận hồ sơ đại học xuất sắc",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      },
+      "gcr": {
+        "name": "Guyanese Creole",
+        "dir": "ltr",
+        "title": "Language in Action",
+        "subtitle": "HIGH SCHOOL ENGLISH LANGUAGE ARTS",
+        "tagline": "WE BUILDIN LANGUAGE, CONFIDENCE, AND CONNECTION TOGETHER",
+        "week": "Week of October 12, 2026",
+        "grades": {
+          "9": {
+            "title": "9th Grade",
+            "body": "Even though de week was short, we 9th graders make plenty progress! We finish studying The Music of Erich Zann by looking at de main theme and how de writer use setting and conflict to build it—an important skill for de Regents exam. On Thursday, students also complete de Measure of Student Learning (MOSL) writing assessment, giving we a starting point to track and support how their writing grow through de school year.",
+            "links": [
+              [
+                "NYC Public Schools Speak Yuh Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Text-Analysis Responses on de NYS Regents Exams",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "10th Grade",
+            "body": "Now we about halfway through The House on Mango Street, de 10th graders deepen their character analysis this week by comparing two characters to understand complex themes—an important skill for doing well on de ELA Regents exam. On Thursday, October 15, students also complete de Measure of Student Learning (MOSL) writing assessment, giving we an important starting point to track and support their writing growth through de school year.",
+            "links": [
+              [
+                "NYC Public Schools Speak Yuh Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Characterization in Literature",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "11th Grade",
+            "body": "De 11th graders had an important week focusing on planning for de future and doing deep text analysis! On Wednesday, students take de PSAT to help prepare for de SATs for college entry, and on Thursday, they complete de Measure of Student Learning (MOSL) writing assessment. In class, we dive into “On the Rainy River” while we keep building their skills in careful literary analysis.",
+            "links": [
+              [
+                "NYC Public Schools Speak Yuh Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Finding Theme from a Topic",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "12th Grade",
+            "body": "De 12th graders had a busy and exciting week! On Wednesday, students went on a field trip to Manhattan, and on Thursday, they complete de Measure of Student Learning (MOSL) writing assessment to set a starting point for their growth this year. We also finish their college application personal statements. If yuh get a chance, ask yuh student to share what they write! Next, we start a new novel that we gon read closely and analyze over de next month.",
+            "links": [
+              [
+                "NYC Public Schools Speak Yuh Language!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "See More Examples of Strong College Application Essays",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      },
+      "sq": {
+        "name": "Shqip",
+        "dir": "ltr",
+        "title": "Gjuha në veprim",
+        "subtitle": "GJUHË DHE LETËRSI ANGLEZE NË SHKOLLËN E MESME",
+        "tagline": "NDËRTOJMË SË BASHKU GJUHËN, BESIMIN DHE LIDHJEN",
+        "week": "Java e 12 tetorit 2026",
+        "grades": {
+          "9": {
+            "title": "Klasa e 9-të",
+            "body": "Pavarësisht javës së shkurtër, nxënësit tanë të klasës së 9-të bënë përparim të madh! Përfunduam studimin e The Music of Erich Zann duke analizuar temën qendrore dhe mënyrën se si autori përdor mjedisin dhe konfliktin për ta zhvilluar atë—një aftësi e rëndësishme për provimin Regents. Të enjten, nxënësit përfunduan gjithashtu vlerësimin me shkrim Measure of Student Learning (MOSL), duke na dhënë një pikënisje për të ndjekur dhe mbështetur zhvillimin e tyre në shkrim gjatë gjithë vitit shkollor.",
+            "links": [
+              [
+                "Shkollat Publike të NYC flasin gjuhën tuaj!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Përgjigjet e analizës së tekstit në provimet Regents të Shtetit të Nju Jorkut",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "Klasa e 10-të",
+            "body": "Tani që jemi afërsisht në gjysmën e The House on Mango Street, nxënësit tanë të klasës së 10-të e thelluan këtë javë analizën e personazheve duke krahasuar dy personazhe për të zbërthyer tema komplekse—një aftësi e rëndësishme për sukses në provimin ELA Regents. Të enjten, më 15 tetor, nxënësit përfunduan gjithashtu vlerësimin me shkrim Measure of Student Learning (MOSL), i cili na jep një pikënisje të rëndësishme për të ndjekur dhe mbështetur zhvillimin e tyre në shkrim gjatë gjithë vitit shkollor.",
+            "links": [
+              [
+                "Shkollat Publike të NYC flasin gjuhën tuaj!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Karakterizimi në letërsi",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "Klasa e 11-të",
+            "body": "Nxënësit tanë të klasës së 11-të patën një javë të rëndësishme të përqendruar te planifikimi për të ardhmen dhe analiza e thelluar e tekstit! Të mërkurën, nxënësit dhanë PSAT-in për t’u përgatitur për SAT-et e pranimit në universitet, dhe të enjten përfunduan vlerësimin me shkrim Measure of Student Learning (MOSL). Në klasë, u thelluam në “On the Rainy River” ndërsa vazhduam të përmirësonim aftësitë e tyre në analizën e kujdesshme letrare.",
+            "links": [
+              [
+                "Shkollat Publike të NYC flasin gjuhën tuaj!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Identifikimi i temës nga një çështje",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "Klasa e 12-të",
+            "body": "Nxënësit tanë të klasës së 12-të patën një javë emocionuese dhe të ngarkuar! Të mërkurën, nxënësit morën pjesë në një vizitë mësimore në Manhattan, dhe të enjten përfunduan vlerësimin me shkrim Measure of Student Learning (MOSL) për të vendosur një pikënisje për zhvillimin e tyre këtë vit. Përfunduam gjithashtu esetë personale për aplikimet në universitet. Nëse keni mundësi, kërkojini nxënësit tuaj t’ju tregojë çfarë ka shkruar! Më pas filluam një roman të ri, të cilin do ta lexojmë me kujdes dhe do ta analizojmë gjatë muajit të ardhshëm.",
+            "links": [
+              [
+                "Shkollat Publike të NYC flasin gjuhën tuaj!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "Shihni më shumë shembuj të eseve të forta për aplikim në universitet",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      },
+      "bn": {
+        "name": "বাংলা",
+        "dir": "ltr",
+        "title": "ভাষা কাজে লাগাই",
+        "subtitle": "হাই স্কুল ইংরেজি ভাষা ও সাহিত্য",
+        "tagline": "একসঙ্গে ভাষা, আত্মবিশ্বাস ও সংযোগ গড়ে তুলি",
+        "week": "১২ অক্টোবর ২০২৬-এর সপ্তাহ",
+        "grades": {
+          "9": {
+            "title": "৯ম শ্রেণি",
+            "body": "সপ্তাহটি ছোট হলেও আমাদের ৯ম শ্রেণির শিক্ষার্থীরা দারুণ অগ্রগতি করেছে! আমরা The Music of Erich Zann পড়া শেষ করেছি এর কেন্দ্রীয় থিম বিশ্লেষণ করে এবং লেখক কীভাবে পটভূমি ও দ্বন্দ্ব ব্যবহার করে সেই থিমটি গড়ে তুলেছেন তা পরীক্ষা করে—Regents পরীক্ষার জন্য এটি একটি গুরুত্বপূর্ণ দক্ষতা। বৃহস্পতিবার শিক্ষার্থীরা Measure of Student Learning (MOSL) লিখিত মূল্যায়নও সম্পন্ন করেছে, যা পুরো শিক্ষাবর্ষে তাদের লেখার অগ্রগতি পর্যবেক্ষণ ও সহায়তা করার জন্য আমাদের একটি প্রাথমিক মানদণ্ড দেয়।",
+            "links": [
+              [
+                "NYC পাবলিক স্কুলস আপনার ভাষায় কথা বলে!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "নিউ ইয়র্ক স্টেট Regents পরীক্ষায় টেক্সট বিশ্লেষণের উত্তর",
+                "https://www.youtube.com/watch?v=WxlJniXiTdA"
+              ]
+            ]
+          },
+          "10": {
+            "title": "১০ম শ্রেণি",
+            "body": "এখন The House on Mango Street-এর প্রায় অর্ধেক পড়া হয়ে গেছে। এই সপ্তাহে আমাদের ১০ম শ্রেণির শিক্ষার্থীরা দুইটি চরিত্রের তুলনা করে জটিল থিম বিশ্লেষণের মাধ্যমে চরিত্র বিশ্লেষণের দক্ষতা আরও গভীর করেছে—ELA Regents পরীক্ষায় সাফল্যের জন্য এটি একটি গুরুত্বপূর্ণ দক্ষতা। বৃহস্পতিবার, ১৫ অক্টোবর, শিক্ষার্থীরা Measure of Student Learning (MOSL) লিখিত মূল্যায়নও সম্পন্ন করেছে, যা পুরো শিক্ষাবর্ষে তাদের লেখার অগ্রগতি পর্যবেক্ষণ ও সহায়তা করার জন্য একটি গুরুত্বপূর্ণ প্রাথমিক মানদণ্ড দেয়।",
+            "links": [
+              [
+                "NYC পাবলিক স্কুলস আপনার ভাষায় কথা বলে!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "সাহিত্যে চরিত্রায়ন",
+                "https://www.youtube.com/watch?v=MPaSFj4r3zU"
+              ]
+            ]
+          },
+          "11": {
+            "title": "১১শ শ্রেণি",
+            "body": "আমাদের ১১শ শ্রেণির শিক্ষার্থীদের জন্য ভবিষ্যৎ পরিকল্পনা এবং গভীর পাঠ বিশ্লেষণে মনোযোগ দেওয়া একটি গুরুত্বপূর্ণ সপ্তাহ ছিল! বুধবার শিক্ষার্থীরা কলেজে ভর্তির SAT-এর প্রস্তুতির জন্য PSAT দিয়েছে, এবং বৃহস্পতিবার তারা Measure of Student Learning (MOSL) লিখিত মূল্যায়ন সম্পন্ন করেছে। শ্রেণিকক্ষে আমরা “On the Rainy River” গভীরভাবে পড়েছি এবং কঠোর সাহিত্য বিশ্লেষণের দক্ষতা আরও উন্নত করেছি।",
+            "links": [
+              [
+                "NYC পাবলিক স্কুলস আপনার ভাষায় কথা বলে!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "একটি বিষয় থেকে থিম চিহ্নিত করা",
+                "https://www.youtube.com/watch?v=QUBULdACXwg"
+              ]
+            ]
+          },
+          "12": {
+            "title": "১২শ শ্রেণি",
+            "body": "আমাদের ১২শ শ্রেণির শিক্ষার্থীদের জন্য এটি ছিল ব্যস্ত ও উত্তেজনাপূর্ণ সপ্তাহ! বুধবার শিক্ষার্থীরা ম্যানহাটনে একটি শিক্ষা সফরে গিয়েছিল, এবং বৃহস্পতিবার তারা Measure of Student Learning (MOSL) লিখিত মূল্যায়ন সম্পন্ন করেছে, যাতে এ বছরের তাদের অগ্রগতির জন্য একটি প্রাথমিক মানদণ্ড স্থাপন করা যায়। আমরা তাদের কলেজ আবেদনের ব্যক্তিগত বিবৃতিগুলোও শেষ করেছি। সুযোগ পেলে আপনার শিক্ষার্থীকে সে কী লিখেছে তা আপনাকে দেখাতে বলুন! এরপর আমরা একটি নতুন উপন্যাস শুরু করেছি, যা আগামী এক মাস ধরে মনোযোগ দিয়ে পড়ব এবং বিশ্লেষণ করব।",
+            "links": [
+              [
+                "NYC পাবলিক স্কুলস আপনার ভাষায় কথা বলে!",
+                "https://www.schools.nyc.gov/school-life/school-environment/hello"
+              ],
+              [
+                "শক্তিশালী কলেজ আবেদন প্রবন্ধের আরও উদাহরণ দেখুন",
+                "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "2026-10-05": {
+      "en": {
+        "name": "English",
+        "dir": "ltr",
+        "title": "Language in Action",
+        "subtitle": "HIGH SCHOOL ENGLISH LANGUAGE ARTS",
+        "tagline": "BUILDING LANGUAGE, CONFIDENCE, AND CONNECTION TOGETHER",
+        "week": "Week of October 5, 2026",
+        "grades": {
+          "9": {
+            "title": "9th Grade",
+            "body": "Throughout September, 9th Grade ELA students practiced citing relevant textual evidence across various texts, including Thich Nhat Hanh’s “A French Soldier” to explore empathy. In October, we are diving into horror and science fiction, analyzing how devices like conflict and symbolism build the central idea as students write their own original stories.",
+            "links": [
+              [
+                "Read the text",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Say/Mean/Matter",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "How to support",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "10th Grade",
+            "body": "In September, 10th Grade ELA students practiced developing central ideas using texts like Jesus Colón’s “Little Things Are Big.” In October, we are reading “The House on Mango Street” to analyze how characterization and literary elements build an author’s central message.",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "How to support",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "11th Grade",
+            "body": "In 11th Grade ELA, students have been studying poetry, using the SOAPSTone strategy on works like Gwendolyn Brooks’s “We Real Cool” to uncover central ideas. We are also expanding our Tier 2 vocabulary with words like exploitation, finite, and incongruous, practicing incorporating them into meaningful sentences so students truly master how to use them in context.",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "SOAPSTone Writing Strategy",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "How to support",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "12th Grade",
+            "body": "In 12th Grade ELA, students are studying ethos, pathos, and logos in famous speeches like Barack Obama’s 2009 Inaugural Address. Alongside this rhetorical analysis, seniors are actively preparing for college applications by drafting and refining their personal statements.",
+            "links": [
+              [
+                "President Obama’s Speech",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, Pathos, and Logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "How to support",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "fr": {
+        "name": "Français",
+        "dir": "ltr",
+        "title": "La langue en action",
+        "subtitle": "LANGUE ET LITTÉRATURE ANGLAISES AU LYCÉE",
+        "tagline": "DÉVELOPPER ENSEMBLE LA LANGUE, LA CONFIANCE ET LES LIENS",
+        "week": "Semaine du 5 octobre 2026",
+        "grades": {
+          "9": {
+            "title": "9e année",
+            "body": "Tout au long du mois de septembre, les élèves de 9e année en anglais ont appris à citer des preuves textuelles pertinentes dans différents textes, notamment « A French Soldier » de Thich Nhat Hanh, afin d’explorer l’empathie. En octobre, nous abordons l’horreur et la science-fiction et analysons comment des procédés tels que le conflit et le symbolisme construisent l’idée centrale, tandis que les élèves écrivent leurs propres histoires originales.",
+            "links": [
+              [
+                "Lire le texte",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Stratégie Say/Mean/Matter",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "Comment aider",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "10e année",
+            "body": "En septembre, les élèves de 10e année en anglais ont appris à développer des idées centrales à partir de textes tels que « Little Things Are Big » de Jesus Colón. En octobre, nous lisons « The House on Mango Street » afin d’analyser comment la caractérisation et les éléments littéraires construisent le message central de l’auteur.",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "Comment aider",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "11e année",
+            "body": "En 11e année, les élèves étudient la poésie et utilisent la stratégie SOAPSTone sur des œuvres telles que « We Real Cool » de Gwendolyn Brooks afin de dégager les idées centrales. Nous enrichissons également le vocabulaire de niveau 2 avec des mots comme exploitation, finite et incongruous, en nous exerçant à les employer dans des phrases pertinentes afin que les élèves apprennent réellement à les utiliser en contexte.",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "Stratégie d’écriture SOAPSTone",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "Comment aider",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "12e année",
+            "body": "En 12e année, les élèves étudient l’ethos, le pathos et le logos dans des discours célèbres tels que le discours d’investiture de Barack Obama en 2009. Parallèlement à cette analyse rhétorique, les élèves de terminale préparent activement leurs candidatures à l’université en rédigeant et en améliorant leurs déclarations personnelles.",
+            "links": [
+              [
+                "Discours du président Obama",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, pathos et logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "Comment aider",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "es": {
+        "name": "Español",
+        "dir": "ltr",
+        "title": "El lenguaje en acción",
+        "subtitle": "LENGUA Y LITERATURA INGLESA DE ESCUELA SECUNDARIA",
+        "tagline": "DESARROLLANDO JUNTOS EL LENGUAJE, LA CONFIANZA Y LA CONEXIÓN",
+        "week": "Semana del 5 de octubre de 2026",
+        "grades": {
+          "9": {
+            "title": "9.º grado",
+            "body": "Durante septiembre, los estudiantes de Lengua y Literatura Inglesa de 9.º grado practicaron cómo citar evidencia textual relevante en distintos textos, incluido “A French Soldier” de Thich Nhat Hanh, para explorar la empatía. En octubre, nos adentramos en el terror y la ciencia ficción y analizamos cómo recursos como el conflicto y el simbolismo construyen la idea central mientras los estudiantes escriben sus propias historias originales.",
+            "links": [
+              [
+                "Leer el texto",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Estrategia Say/Mean/Matter",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "Cómo apoyar",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "10.º grado",
+            "body": "En septiembre, los estudiantes de 10.º grado practicaron cómo desarrollar ideas centrales usando textos como “Little Things Are Big” de Jesus Colón. En octubre, estamos leyendo “The House on Mango Street” para analizar cómo la caracterización y los elementos literarios construyen el mensaje central del autor.",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "Cómo apoyar",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "11.º grado",
+            "body": "En 11.º grado, los estudiantes han estado estudiando poesía y usando la estrategia SOAPSTone con obras como “We Real Cool” de Gwendolyn Brooks para descubrir ideas centrales. También estamos ampliando el vocabulario de Nivel 2 con palabras como exploitation, finite e incongruous, practicando cómo incorporarlas en oraciones con sentido para que los estudiantes dominen realmente su uso en contexto.",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "Estrategia de escritura SOAPSTone",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "Cómo apoyar",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "12.º grado",
+            "body": "En 12.º grado, los estudiantes están estudiando ethos, pathos y logos en discursos famosos como el discurso inaugural de Barack Obama de 2009. Además de este análisis retórico, los estudiantes de último año están preparándose activamente para las solicitudes universitarias redactando y revisando sus ensayos personales.",
+            "links": [
+              [
+                "Discurso del presidente Obama",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, pathos y logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "Cómo apoyar",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "ar": {
+        "name": "العربية",
+        "dir": "rtl",
+        "title": "اللغة في التطبيق",
+        "subtitle": "اللغة الإنجليزية وآدابها في المرحلة الثانوية",
+        "tagline": "نبني اللغة والثقة والتواصل معًا",
+        "week": "أسبوع 5 أكتوبر 2026",
+        "grades": {
+          "9": {
+            "title": "الصف التاسع",
+            "body": "خلال شهر سبتمبر، تدرب طلاب الصف التاسع في مادة اللغة الإنجليزية وآدابها على الاستشهاد بأدلة نصية ذات صلة من نصوص مختلفة، ومنها نص «A French Soldier» لثيش نهات هانه، لاستكشاف مفهوم التعاطف. وفي أكتوبر، ننتقل إلى أدب الرعب والخيال العلمي، ونحلل كيف تسهم عناصر مثل الصراع والرمزية في بناء الفكرة المركزية، بينما يكتب الطلاب قصصهم الأصلية الخاصة.",
+            "links": [
+              [
+                "قراءة النص",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "استراتيجية Say/Mean/Matter",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "كيف يمكن للأسرة المساعدة",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "الصف العاشر",
+            "body": "في سبتمبر، تدرب طلاب الصف العاشر على تطوير الأفكار المركزية باستخدام نصوص مثل «Little Things Are Big» لخيسوس كولون. وفي أكتوبر، نقرأ «The House on Mango Street» لتحليل كيف تسهم طريقة تقديم الشخصيات والعناصر الأدبية في بناء الرسالة المركزية للكاتب.",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "كيف يمكن للأسرة المساعدة",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "الصف الحادي عشر",
+            "body": "في الصف الحادي عشر، يدرس الطلاب الشعر ويستخدمون استراتيجية SOAPSTone مع أعمال مثل «We Real Cool» لغويندولين بروكس لاستخلاص الأفكار المركزية. كما نوسع مفردات المستوى الثاني بكلمات مثل exploitation وfinite وincongruous، ونتدرب على استخدامها في جمل ذات معنى حتى يتقن الطلاب استخدامها في السياق.",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "استراتيجية الكتابة SOAPSTone",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "كيف يمكن للأسرة المساعدة",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "الصف الثاني عشر",
+            "body": "في الصف الثاني عشر، يدرس الطلاب مفاهيم ethos وpathos وlogos في خطب مشهورة مثل خطاب تنصيب باراك أوباما عام 2009. وبالتوازي مع هذا التحليل البلاغي، يستعد طلاب السنة الأخيرة بنشاط للتقديم إلى الجامعات من خلال كتابة بياناتهم الشخصية ومراجعتها وتحسينها.",
+            "links": [
+              [
+                "خطاب الرئيس أوباما",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos وPathos وLogos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "كيف يمكن للأسرة المساعدة",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "ur": {
+        "name": "اردو",
+        "dir": "rtl",
+        "title": "زبان عمل میں",
+        "subtitle": "ہائی اسکول انگریزی زبان اور ادب",
+        "tagline": "مل کر زبان، اعتماد اور تعلق مضبوط کرنا",
+        "week": "5 اکتوبر 2026 کا ہفتہ",
+        "grades": {
+          "9": {
+            "title": "نویں جماعت",
+            "body": "ستمبر کے دوران، نویں جماعت کے انگریزی زبان و ادب کے طلبہ نے مختلف متون میں متعلقہ شواہد کا حوالہ دینا مشق کیا، جن میں Thich Nhat Hanh کی “A French Soldier” بھی شامل ہے، تاکہ ہمدردی کے تصور کو سمجھا جا سکے۔ اکتوبر میں ہم ہارر اور سائنس فکشن کا مطالعہ کر رہے ہیں اور یہ دیکھ رہے ہیں کہ تنازع اور علامت نگاری جیسے ادبی طریقے مرکزی خیال کو کیسے بناتے ہیں، جبکہ طلبہ اپنی اصل کہانیاں بھی لکھ رہے ہیں۔",
+            "links": [
+              [
+                "متن پڑھیں",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Say/Mean/Matter حکمتِ عملی",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "گھر سے مدد کیسے کریں",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "دسویں جماعت",
+            "body": "ستمبر میں، دسویں جماعت کے طلبہ نے Jesus Colón کی “Little Things Are Big” جیسی تحریروں کے ذریعے مرکزی خیالات تیار کرنے کی مشق کی۔ اکتوبر میں ہم “The House on Mango Street” پڑھ رہے ہیں تاکہ یہ جان سکیں کہ کردار نگاری اور ادبی عناصر مصنف کے مرکزی پیغام کو کیسے تشکیل دیتے ہیں۔",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "گھر سے مدد کیسے کریں",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "گیارہویں جماعت",
+            "body": "گیارہویں جماعت میں طلبہ شاعری کا مطالعہ کر رہے ہیں اور Gwendolyn Brooks کی “We Real Cool” جیسی نظموں پر SOAPSTone حکمتِ عملی استعمال کر کے مرکزی خیالات تلاش کر رہے ہیں۔ ہم Tier 2 الفاظ بھی بڑھا رہے ہیں، جیسے exploitation، finite اور incongruous، اور ان الفاظ کو بامعنی جملوں میں استعمال کرنے کی مشق کر رہے ہیں تاکہ طلبہ انہیں سیاق و سباق میں درست طور پر استعمال کرنا سیکھیں۔",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "SOAPSTone تحریری حکمتِ عملی",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "گھر سے مدد کیسے کریں",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "بارہویں جماعت",
+            "body": "بارہویں جماعت میں طلبہ مشہور تقاریر میں ethos، pathos اور logos کا مطالعہ کر رہے ہیں، جیسے باراک اوباما کی 2009 کی افتتاحی تقریر۔ اس خطیبانہ تجزیے کے ساتھ ساتھ، آخری سال کے طلبہ کالج درخواستوں کی تیاری کر رہے ہیں اور اپنے ذاتی بیانات لکھنے اور بہتر بنانے پر کام کر رہے ہیں۔",
+            "links": [
+              [
+                "صدر اوباما کی تقریر",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, Pathos, and Logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "گھر سے مدد کیسے کریں",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "vi": {
+        "name": "Tiếng Việt",
+        "dir": "ltr",
+        "title": "Ngôn ngữ trong hành động",
+        "subtitle": "NGỮ VĂN ANH BẬC TRUNG HỌC",
+        "tagline": "CÙNG NHAU XÂY DỰNG NGÔN NGỮ, SỰ TỰ TIN VÀ KẾT NỐI",
+        "week": "Tuần bắt đầu ngày 5 tháng 10 năm 2026",
+        "grades": {
+          "9": {
+            "title": "Lớp 9",
+            "body": "Trong suốt tháng 9, học sinh Ngữ văn Anh lớp 9 đã luyện cách trích dẫn bằng chứng phù hợp từ nhiều văn bản khác nhau, trong đó có “A French Soldier” của Thich Nhat Hanh, để tìm hiểu về sự đồng cảm. Sang tháng 10, chúng tôi chuyển sang thể loại kinh dị và khoa học viễn tưởng, phân tích cách những yếu tố như xung đột và biểu tượng góp phần xây dựng ý tưởng trung tâm trong khi học sinh viết những câu chuyện nguyên bản của riêng mình.",
+            "links": [
+              [
+                "Đọc văn bản",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Chiến lược Say/Mean/Matter",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "Cách hỗ trợ",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "Lớp 10",
+            "body": "Trong tháng 9, học sinh lớp 10 đã luyện phát triển ý tưởng trung tâm qua các văn bản như “Little Things Are Big” của Jesus Colón. Trong tháng 10, chúng tôi đọc “The House on Mango Street” để phân tích cách xây dựng nhân vật và các yếu tố văn học góp phần tạo nên thông điệp trung tâm của tác giả.",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "Cách hỗ trợ",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "Lớp 11",
+            "body": "Ở lớp 11, học sinh đang học thơ và sử dụng chiến lược SOAPSTone với những tác phẩm như “We Real Cool” của Gwendolyn Brooks để khám phá các ý tưởng trung tâm. Chúng tôi cũng mở rộng vốn từ học thuật Tier 2 với các từ như exploitation, finite và incongruous, đồng thời luyện đưa các từ này vào những câu có ý nghĩa để học sinh thực sự làm chủ cách dùng từ trong ngữ cảnh.",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "Chiến lược viết SOAPSTone",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "Cách hỗ trợ",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "Lớp 12",
+            "body": "Ở lớp 12, học sinh đang tìm hiểu ethos, pathos và logos trong những bài diễn văn nổi tiếng như diễn văn nhậm chức năm 2009 của Barack Obama. Song song với việc phân tích tu từ, học sinh cuối cấp cũng đang tích cực chuẩn bị hồ sơ đại học bằng cách viết và chỉnh sửa bài luận cá nhân.",
+            "links": [
+              [
+                "Bài phát biểu của Tổng thống Obama",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, Pathos và Logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "Cách hỗ trợ",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "gcr": {
+        "name": "Guyanese Creole",
+        "dir": "ltr",
+        "title": "Language in Action",
+        "subtitle": "HIGH SCHOOL ENGLISH LANGUAGE ARTS",
+        "tagline": "WE BUILDIN LANGUAGE, CONFIDENCE, AND CONNECTION TOGETHER",
+        "week": "Week of October 5, 2026",
+        "grades": {
+          "9": {
+            "title": "Grade 9",
+            "body": "All through September, Grade 9 ELA students practise how to use good evidence from different texts, including Thich Nhat Hanh’s “A French Soldier,” to talk about empathy. In October, we moving into horror and science fiction. Students looking at how things like conflict and symbolism help build the main idea, and they writing their own original stories too.",
+            "links": [
+              [
+                "Read the text",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Say/Mean/Matter",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "How family can help",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "Grade 10",
+            "body": "In September, Grade 10 ELA students practise how to build a main idea using texts like Jesus Colón’s “Little Things Are Big.” In October, we reading “The House on Mango Street” and looking at how characters and other literary elements help build the author’s main message.",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "How family can help",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "Grade 11",
+            "body": "In Grade 11 ELA, students studying poetry and using the SOAPSTone strategy with works like Gwendolyn Brooks’s “We Real Cool” to find the main ideas. We also building up Tier 2 vocabulary with words like exploitation, finite, and incongruous, and students practising how to use them in meaningful sentences so they can really use the words in context.",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "SOAPSTone Writing Strategy",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "How family can help",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "Grade 12",
+            "body": "In Grade 12 ELA, students studying ethos, pathos, and logos in famous speeches like Barack Obama’s 2009 Inaugural Address. At the same time, seniors getting ready for college applications by writing and improving their personal statements.",
+            "links": [
+              [
+                "President Obama’s Speech",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, Pathos, and Logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "How family can help",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "sq": {
+        "name": "Shqip",
+        "dir": "ltr",
+        "title": "Gjuha në veprim",
+        "subtitle": "GJUHË DHE LETËRSI ANGLEZE NË SHKOLLËN E MESME",
+        "tagline": "NDËRTOJMË SË BASHKU GJUHËN, BESIMIN DHE LIDHJEN",
+        "week": "Java e 5 tetorit 2026",
+        "grades": {
+          "9": {
+            "title": "Klasa e 9-të",
+            "body": "Gjatë muajit shtator, nxënësit e klasës së 9-të në Gjuhë dhe Letërsi Angleze ushtruan citimin e provave përkatëse nga tekste të ndryshme, përfshirë “A French Soldier” nga Thich Nhat Hanh, për të eksploruar empatinë. Në tetor po kalojmë te letërsia horror dhe fantastiko-shkencore, duke analizuar se si elemente si konflikti dhe simbolika ndërtojnë idenë qendrore, ndërsa nxënësit shkruajnë tregimet e tyre origjinale.",
+            "links": [
+              [
+                "Lexoni tekstin",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Strategjia Say/Mean/Matter",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "Si mund të ndihmoni",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "Klasa e 10-të",
+            "body": "Në shtator, nxënësit e klasës së 10-të ushtruan zhvillimin e ideve qendrore duke përdorur tekste si “Little Things Are Big” nga Jesus Colón. Në tetor po lexojmë “The House on Mango Street” për të analizuar se si karakterizimi dhe elementet letrare ndërtojnë mesazhin qendror të autorit.",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "Si mund të ndihmoni",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "Klasa e 11-të",
+            "body": "Në klasën e 11-të, nxënësit po studiojnë poezi dhe po përdorin strategjinë SOAPSTone me vepra si “We Real Cool” nga Gwendolyn Brooks për të zbuluar idetë qendrore. Gjithashtu po zgjerojmë fjalorin e Nivelit 2 me fjalë si exploitation, finite dhe incongruous, duke ushtruar përdorimin e tyre në fjali kuptimplota që nxënësit t’i zotërojnë vërtet në kontekst.",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "Strategjia e shkrimit SOAPSTone",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "Si mund të ndihmoni",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "Klasa e 12-të",
+            "body": "Në klasën e 12-të, nxënësit po studiojnë ethos, pathos dhe logos në fjalime të njohura si fjalimi i inaugurimit i Barack Obama-s në vitin 2009. Krahas kësaj analize retorike, maturantët po përgatiten aktivisht për aplikimet në universitet duke hartuar dhe përmirësuar deklaratat e tyre personale.",
+            "links": [
+              [
+                "Fjalimi i Presidentit Obama",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, Pathos dhe Logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "Si mund të ndihmoni",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      },
+      "bn": {
+        "name": "বাংলা",
+        "dir": "ltr",
+        "title": "ভাষা কাজে লাগাই",
+        "subtitle": "হাই স্কুল ইংরেজি ভাষা ও সাহিত্য",
+        "tagline": "একসঙ্গে ভাষা, আত্মবিশ্বাস ও সংযোগ গড়ে তুলি",
+        "week": "৫ অক্টোবর ২০২৬-এর সপ্তাহ",
+        "grades": {
+          "9": {
+            "title": "৯ম শ্রেণি",
+            "body": "সেপ্টেম্বর জুড়ে ৯ম শ্রেণির ইংরেজি ভাষা ও সাহিত্য শিক্ষার্থীরা বিভিন্ন লেখায় প্রাসঙ্গিক পাঠ্যপ্রমাণ উদ্ধৃত করার অনুশীলন করেছে। এর মধ্যে Thich Nhat Hanh-এর “A French Soldier” ব্যবহার করে সহমর্মিতা নিয়ে আলোচনা করা হয়েছে। অক্টোবরে আমরা হরর ও বিজ্ঞান কল্পকাহিনীতে প্রবেশ করছি এবং সংঘাত ও প্রতীকবাদের মতো উপাদান কীভাবে কেন্দ্রীয় ধারণা গড়ে তোলে তা বিশ্লেষণ করছি, পাশাপাশি শিক্ষার্থীরা নিজেদের মৌলিক গল্পও লিখছে।",
+            "links": [
+              [
+                "লেখাটি পড়ুন",
+                "https://www.lionsroar.com/a-french-soldier/"
+              ],
+              [
+                "Say/Mean/Matter কৌশল",
+                "https://drive.google.com/file/d/1muHQ6AAGf2SrOCJ3e7kaLoerWsBtmwOC/view?usp=sharing"
+              ],
+              [
+                "কীভাবে সহায়তা করবেন",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "10": {
+            "title": "১০ম শ্রেণি",
+            "body": "সেপ্টেম্বরে ১০ম শ্রেণির শিক্ষার্থীরা Jesus Colón-এর “Little Things Are Big”-এর মতো লেখা ব্যবহার করে কেন্দ্রীয় ধারণা গড়ে তোলার অনুশীলন করেছে। অক্টোবরে আমরা “The House on Mango Street” পড়ছি এবং চরিত্রায়ন ও সাহিত্যিক উপাদান কীভাবে লেখকের কেন্দ্রীয় বার্তা তৈরি করে তা বিশ্লেষণ করছি।",
+            "links": [
+              [
+                "Little Things Are Big",
+                "https://www.facinghistory.org/resource-library/little-things-are-big"
+              ],
+              [
+                "The House on Mango Street",
+                "https://openlab.bmcc.cuny.edu/eng-201-intro-to-literature-fall-2023-conway/wp-content/uploads/sites/145/2020/01/HouseOnMangoSt_PDF.pdf"
+              ],
+              [
+                "কীভাবে সহায়তা করবেন",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "11": {
+            "title": "১১শ শ্রেণি",
+            "body": "১১শ শ্রেণিতে শিক্ষার্থীরা কবিতা পড়ছে এবং Gwendolyn Brooks-এর “We Real Cool”-এর মতো রচনায় SOAPSTone কৌশল ব্যবহার করে কেন্দ্রীয় ধারণা খুঁজে বের করছে। আমরা exploitation, finite এবং incongruous-এর মতো Tier 2 শব্দভান্ডারও বাড়াচ্ছি এবং শব্দগুলোকে অর্থপূর্ণ বাক্যে ব্যবহার করার অনুশীলন করছি, যাতে শিক্ষার্থীরা প্রসঙ্গে সঠিকভাবে ব্যবহার করতে পারে।",
+            "links": [
+              [
+                "We Real Cool",
+                "https://poets.org/poem/we-real-cool"
+              ],
+              [
+                "SOAPSTone লেখার কৌশল",
+                "https://thevisualcommunicationguy.com/wp-content/uploads/2017/07/SOAPStone-Writing-Strategy.jpg"
+              ],
+              [
+                "কীভাবে সহায়তা করবেন",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          },
+          "12": {
+            "title": "১২শ শ্রেণি",
+            "body": "১২শ শ্রেণিতে শিক্ষার্থীরা Barack Obama-এর ২০০৯ সালের অভিষেক ভাষণের মতো বিখ্যাত বক্তৃতায় ethos, pathos এবং logos নিয়ে পড়াশোনা করছে। এই অলঙ্কারমূলক বিশ্লেষণের পাশাপাশি, সিনিয়র শিক্ষার্থীরা ব্যক্তিগত বিবৃতি লেখা ও সংশোধনের মাধ্যমে কলেজে আবেদনের জন্য সক্রিয়ভাবে প্রস্তুতি নিচ্ছে।",
+            "links": [
+              [
+                "প্রেসিডেন্ট ওবামার ভাষণ",
+                "https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address"
+              ],
+              [
+                "Ethos, Pathos এবং Logos",
+                "https://writingcooperative.com/the-three-elements-of-persuasion-ethos-pathos-and-logos-4d7cee329929"
+              ],
+              [
+                "কীভাবে সহায়তা করবেন",
+                "https://www.colorincolorado.org/families"
+              ]
+            ]
+          }
+        }
+      }
+    }
+  }
+};
