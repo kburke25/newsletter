@@ -15,3 +15,8 @@ footer{background:var(--navy);color:white;text-align:center;padding:22px 20px;fo
 .control-group { display: flex; flex-direction: column; gap: .3rem; }
 .controls select { min-width: 180px; }
 @media (max-width: 700px) { .controls { align-items: stretch; } .controls select { width: 100%; } }
+
+footer .footer-school{margin:0 0 8px;}
+footer .contact-line{margin:0;font-weight:500;}
+footer a{color:#fff;text-decoration:underline;text-underline-offset:3px;}
+footer a:hover,footer a:focus-visible{opacity:.85;}

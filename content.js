@@ -23,7 +23,7 @@ window.NEWSLETTER_ARCHIVE = {
                 "https://www.youtube.com/watch?v=WxlJniXiTdA"
               ]
             ],
-            "image": "assets/erich-zann.png",
+            "image": "grade9-erich-zann.png",
             "imageAlt": "Illustration of a violinist from The Music of Erich Zann"
           },
           "10": {
@@ -39,7 +39,7 @@ window.NEWSLETTER_ARCHIVE = {
                 "https://www.youtube.com/watch?v=MPaSFj4r3zU"
               ]
             ],
-            "image": "assets/house-on-mango-street.png",
+            "image": "grade10-mango-street.png",
             "imageAlt": "Cover of The House on Mango Street by Sandra Cisneros"
           },
           "11": {
@@ -55,7 +55,7 @@ window.NEWSLETTER_ARCHIVE = {
                 "https://www.youtube.com/watch?v=QUBULdACXwg"
               ]
             ],
-            "image": "assets/img_26.png",
+            "image": "grade11-literature.png",
             "imageAlt": "Painting of an interior used as a literary-themed visual"
           },
           "12": {
@@ -71,7 +71,7 @@ window.NEWSLETTER_ARCHIVE = {
                 "https://www.nyu.edu/content/dam/nyu/univPrgms/documents/summer/ESSAY%20EXAMPLES.pdf"
               ]
             ],
-            "image": "assets/img_19.jpeg",
+            "image": "hero-books.jpg",
             "imageAlt": "Old books on a shelf"
           }
         }

@@ -1,9 +1,9 @@
 const ARCHIVE = window.NEWSLETTER_ARCHIVE;
 const fallbackImages = {
-  9: 'assets/img_21.png',
-  10: 'assets/img_23.png',
-  11: 'assets/img_26.png',
-  12: 'assets/img_30.png'
+  9: 'grade9-erich-zann.png',
+  10: 'grade10-mango-street.png',
+  11: 'grade11-literature.png',
+  12: 'hero-books.jpg'
 };
 const fallbackAlt = {
   9: 'Literary-themed illustration',
